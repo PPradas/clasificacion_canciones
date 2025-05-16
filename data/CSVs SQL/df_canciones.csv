@@ -1,0 +1,1001 @@
+codigo,duracion,genero,disco,autor,discografica,coste,day,month,year
+1,138,blues,blues4,Stevie Ray Vaughan,Sun Records,744.0068605718898,17,10,X
+2,142,blues,blues7,Sonny Boy Williamson,Epic Records,4178.851293374162,31,7,2023
+3,96,blues,blues5,Muddy Waters,Merge Records,3226.400608167636,14,6,2023
+4,111,blues,blues10,Freddie King,Republic Records,3618.766076127957,29,5,2023
+5,191,blues,blues1,Memphis Minnie,Jive Records,1990.810773386441,22,6,X
+6,231,blues,blues13,Magic Sam,Polydor Records,909.8098963986199,11,5,2023
+7,160,blues,blues13,Howlin' Wolf,Arista Records,2311.4369856250896,20,8,2021
+8,186,blues,blues7,Elmore James,Tommy Boy Entertainment,2794.9157810386055,13,5,X
+9,149,blues,blues7,Little Walter,XL Recordings,2844.9176844573017,20,5,2021
+10,243,blues,blues13,Memphis Minnie,Atlantic Records,3760.170755907535,13,1,2023
+11,139,blues,blues2,Willie Dixon,Republic Records,469.6199678846424,X,8,2021
+12,127,blues,blues17,B.B. King,Jive Records,2218.730259560177,16,5,2021
+13,130,blues,blues15,Bessie Smith,Tommy Boy Entertainment,2661.3913758869103,23,2,2023
+14,94,blues,blues13,R.L. Burnside,RCA Records,2221.7872304344046,6,11,2021
+15,69,blues,blues9,Etta James,Sun Records,4224.166770756567,24,1,2023
+16,92,blues,blues15,Bonnie Raitt,Island Records,3879.5107034067505,25,11,2022
+17,126,blues,blues11,Blind Willie Johnson,Atlantic Records,3341.3669875731084,30,8,2023
+18,108,blues,blues6,Taj Mahal,Wind-Up Records,3816.8451663582896,26,6,2023
+19,132,blues,blues17,Memphis Minnie,Warner Music Group,3692.1660920914633,11,4,2021
+20,111,blues,blues5,Albert King,Sire Records,1587.404302311686,10,9,2022
+21,178,blues,blues18,Johnny Winter,Def Jam Recordings,3826.85629031408,6,4,X
+22,169,blues,blues6,Little Walter,Arista Records,2076.2067787672663,1,2,2022
+23,131,blues,blues7,Taj Mahal,Rough Trade Records,4368.03787866519,2,2,X
+24,119,blues,blues4,Lightnin' Hopkins,Rough Trade Records,3641.5306330585136,10,1,2023
+25,138,blues,blues18,Eric Clapton,Atlantic Records,2590.218126928335,27,4,2022
+26,149,blues,blues19,Bonnie Raitt,Epic Records,3399.8383997074015,9,12,2023
+27,159,blues,blues16,Buddy Guy,Wind-Up Records,3024.354832873783,24,7,2022
+28,194,blues,blues12,Muddy Waters,Rough Trade Records,3465.5510825655124,8,11,2023
+29,84,blues,blues7,Lead Belly,Sun Records,3276.5564722496297,23,5,2021
+30,145,blues,blues13,Susan Tedeschi,Wind-Up Records,3719.386089524005,26,12,2021
+31,162,blues,blues11,Susan Tedeschi,Polydor Records,6130.777200937513,19,5,2021
+32,113,blues,blues2,Albert Collins,Elektra Records,4169.336200961592,10,3,2021
+33,171,blues,blues9,Lightnin' Hopkins,Interscope Records,2163.535584086603,20,9,2021
+34,98,blues,blues0,Bonnie Raitt,Motown,1345.0635627569936,29,5,2022
+35,152,blues,blues8,Lead Belly,Rough Trade Records,3819.9810986867255,3,2,2021
+36,153,blues,blues14,Koko Taylor,RCA Records,3619.634885531292,28,9,2023
+37,85,blues,blues17,Buddy Guy,Merge Records,3887.997932675772,14,10,2022
+38,190,blues,blues12,Howlin' Wolf,Jive Records,5327.301421224143,6,1,2022
+39,194,blues,blues17,Muddy Waters,Warner Music Group,2123.4674398262714,24,11,2021
+40,74,blues,blues9,Robert Johnson,Warner Music Group,4608.147649230567,19,12,2021
+41,101,blues,blues4,Muddy Waters,Capitol Records,6019.066134004686,19,10,2022
+42,129,blues,blues12,Little Walter,XL Recordings,2812.1278923429772,22,5,2022
+43,166,blues,blues16,Johnny Winter,4AD,1182.6289617685663,5,3,2022
+44,275,blues,blues0,Albert King,Arista Records,2648.6204996674096,9,2,2022
+45,110,blues,blues0,Bonnie Raitt,Republic Records,4011.0411859860765,29,8,2021
+46,163,blues,blues7,Taj Mahal,Verve Records,4289.682406023885,10,12,X
+47,147,blues,blues17,Hound Dog Taylor,Verve Records,3322.0727142094315,X,X,2023
+48,120,blues,blues12,Sonny Boy Williamson,MCA Records,5173.233458623099,17,1,2022
+49,97,blues,blues16,Big Mama Thornton,Polydor Records,4246.951111491568,9,3,2022
+50,99,blues,blues3,Etta James,MCA Records,2108.772448251573,12,11,2021
+51,122,blues,blues3,John Lee Hooker,Stax Records,1964.9152134200704,12,3,2021
+52,175,blues,blues3,Willie Dixon,RCA Records,1640.317939580676,24,2,2021
+53,214,blues,blues2,Jimi Hendrix,Wind-Up Records,4682.681735992886,11,4,2021
+54,207,blues,blues6,R.L. Burnside,Virgin Records,358.1386864727633,13,10,2021
+55,91,blues,blues8,Hound Dog Taylor,Sun Records,1882.5163618299819,23,4,2023
+56,194,blues,blues4,Muddy Waters,Wind-Up Records,4801.925369825255,26,2,X
+57,187,blues,blues12,Susan Tedeschi,Stax Records,3759.1041462544576,6,3,2022
+58,76,blues,blues14,Koko Taylor,Stax Records,4861.728737235739,22,8,2023
+59,165,blues,blues0,John Lee Hooker,4AD,2540.4159779069487,12,10,2023
+60,71,blues,blues17,Etta James,Sire Records,4481.581229663796,X,4,2022
+61,145,blues,blues7,Koko Taylor,Merge Records,2868.3850876562296,19,9,2021
+62,227,blues,blues14,Blind Willie Johnson,4AD,75.23645997666426,22,2,2022
+63,196,blues,blues16,Eric Clapton,Merge Records,3131.516406944489,16,8,2022
+64,126,blues,blues16,Sonny Boy Williamson,Capitol Records,3088.5016601405277,21,2,2023
+65,203,blues,blues12,Koko Taylor,Elektra Records,2798.8332448670835,11,11,2021
+66,128,blues,blues12,Eric Clapton,Columbia Records,392.04994925433857,17,12,2023
+67,145,blues,blues18,Blind Willie Johnson,Tommy Boy Entertainment,5922.758082141115,30,4,2023
+68,161,blues,blues2,Memphis Minnie,Elektra Records,3100.250931495093,2,12,2023
+69,110,blues,blues2,R.L. Burnside,XL Recordings,162.14413433393975,20,2,2021
+70,149,blues,blues12,B.B. King,Universal Music Group,2213.4560742061867,5,6,2023
+71,118,blues,blues6,Stevie Ray Vaughan,Polydor Records,1202.0908111755475,1,6,2023
+72,187,blues,blues2,Susan Tedeschi,Sony Music Entertainment,256.84382195369335,29,7,2021
+73,176,blues,blues0,Stevie Ray Vaughan,EMI Group,2696.8027412604597,24,6,X
+74,83,blues,blues4,Coco Montoya,RCA Records,6262.049655611585,11,4,2023
+75,139,blues,blues19,Blind Willie Johnson,Island Records,3806.4476377672586,14,11,2022
+76,218,blues,blues7,Eric Clapton,4AD,1206.839600775039,1,5,2022
+77,155,blues,blues0,Koko Taylor,Tommy Boy Entertainment,4164.959813035728,12,10,2022
+78,169,blues,blues9,Bessie Smith,Merge Records,472.19277656312397,24,1,2021
+79,177,blues,blues5,Stevie Ray Vaughan,Merge Records,3126.6788787822647,20,12,2021
+80,178,blues,blues19,Elmore James,Merge Records,3381.036272531099,28,8,2021
+81,189,blues,blues14,Big Mama Thornton,Verve Records,1649.031243571655,6,5,2023
+82,220,blues,blues16,Junior Wells,Merge Records,4315.126238372408,9,8,X
+83,219,blues,blues0,Buddy Guy,Republic Records,315.9322177950421,14,6,2023
+84,145,blues,blues15,Big Mama Thornton,Universal Music Group,4780.805853207356,8,12,2023
+85,149,blues,blues0,Lead Belly,Wind-Up Records,1983.1833489391504,3,12,2022
+86,155,blues,blues5,Albert King,4AD,636.4651131591263,22,4,2021
+87,119,blues,blues10,Junior Wells,Elektra Records,5251.614659525116,7,12,2023
+88,155,blues,blues8,R.L. Burnside,Elektra Records,4218.382621606278,27,3,2023
+89,153,blues,blues11,Muddy Waters,Columbia Records,1809.9880297098662,31,8,2021
+90,157,blues,blues15,Bonnie Raitt,Polydor Records,3571.65797868741,7,4,2023
+91,136,blues,blues15,Bonnie Raitt,Republic Records,1122.7180050049726,24,4,2022
+92,123,blues,blues15,Buddy Guy,Epic Records,4348.52264660793,6,11,2023
+93,52,blues,blues7,Albert Collins,Interscope Records,6654.938384768547,X,X,2023
+94,137,blues,blues16,T-Bone Walker,Atlantic Records,5122.3703556055325,2,2,2022
+95,92,blues,blues5,Bessie Smith,Virgin Records,2156.162539467395,16,8,2023
+96,178,blues,blues2,R.L. Burnside,Interscope Records,2951.8959805703826,16,9,2021
+97,97,blues,blues11,John Lee Hooker,Wind-Up Records,6500.773071236793,17,11,2021
+98,151,blues,blues7,Koko Taylor,Wind-Up Records,3817.5303203721733,25,1,2022
+99,110,blues,blues14,Taj Mahal,Merge Records,4027.7953343130334,X,8,2023
+100,153,blues,blues0,Junior Wells,Merge Records,2778.2576541432027,15,7,2023
+101,137,classical,classical19,Antonio Vivaldi,Universal Music Group,2442.4849713925423,X,9,2023
+102,133,classical,classical15,Johannes Brahms,Sony Music Entertainment,5205.5882262551495,31,8,2022
+103,138,classical,classical2,Giuseppe Verdi,BMG Rights Management,4104.279094804019,12,11,2022
+104,181,classical,classical9,Dmitri Shostakovich,Interscope Records,454.9301768000578,10,9,2022
+105,160,classical,classical14,Johannes Brahms,Merge Records,3764.154744233124,6,4,2022
+106,110,classical,classical7,Felix Mendelssohn,Merge Records,2880.4516482804793,X,X,2022
+107,174,classical,classical10,Pyotr Ilyich Tchaikovsky,Island Records,3650.8559615131185,16,4,2022
+108,123,classical,classical8,Franz Schubert,Rough Trade Records,2048.7898345431718,27,8,2023
+109,130,classical,classical1,Felix Mendelssohn,Warner Music Group,1111.6918711530952,16,7,2021
+110,202,classical,classical0,Igor Stravinsky,Republic Records,929.2239522899235,24,2,2023
+111,178,classical,classical16,Ludwig van Beethoven,Arista Records,2855.72414380517,X,10,X
+112,86,classical,classical15,Antonín Dvořák,Epic Records,1894.721905066532,X,3,2022
+113,118,classical,classical12,Giacomo Puccini,Jive Records,2344.8605713073703,26,5,2023
+114,133,classical,classical12,Maurice Ravel,Polydor Records,5669.165873710086,21,3,2021
+115,203,classical,classical13,Aaron Copland,RCA Records,1477.5810674303161,8,1,2021
+116,134,classical,classical1,Aaron Copland,RCA Records,3060.274774999367,16,8,2023
+117,184,classical,classical12,Claude Debussy,Polydor Records,3359.549893605657,3,10,2023
+118,199,classical,classical4,Johann Strauss II,Merge Records,3050.9003020033874,8,9,X
+119,155,classical,classical19,Frederic Chopin,Interscope Records,3236.022989363368,3,12,2021
+120,128,classical,classical4,Edward Elgar,Def Jam Recordings,2669.9982770058323,13,1,2022
+121,232,classical,classical10,Modest Mussorgsky,Sub Pop Records,2782.8825740888747,28,7,2021
+122,152,classical,classical6,Gioachino Rossini,Merge Records,4278.912636434145,20,10,2021
+123,188,classical,classical8,Bedřich Smetana,Tommy Boy Entertainment,3211.8119772533432,24,4,2023
+124,176,classical,classical15,Richard Wagner,Columbia Records,1741.3376431614727,28,4,2023
+125,158,classical,classical7,Igor Stravinsky,Merge Records,3833.372190396686,14,11,2023
+126,72,classical,classical0,Camille Saint-Saëns,Def Jam Recordings,3741.9366700543596,22,10,2021
+127,163,classical,classical15,Sergei Rachmaninoff,Merge Records,4400.591870567502,18,10,X
+128,131,classical,classical19,Johannes Brahms,Arista Records,2215.8952404966603,19,5,2023
+129,138,classical,classical11,Dmitri Shostakovich,Republic Records,4742.964345482576,9,5,2023
+130,179,classical,classical13,Johann Sebastian Bach,Columbia Records,2892.9409524822927,X,4,2021
+131,70,classical,classical8,Franz Joseph Haydn,Stax Records,2007.36039824203,9,8,2022
+132,142,classical,classical8,Carl Orff,Universal Music Group,2177.1237028006926,3,11,2021
+133,179,classical,classical6,Dmitri Shostakovich,Elektra Records,729.5098667054781,X,6,2021
+134,97,classical,classical14,Giuseppe Verdi,BMG Rights Management,6586.52795805212,24,2,2021
+135,103,classical,classical1,Benjamin Britten,Verve Records,4139.629354626146,26,4,2021
+136,75,classical,classical7,Ludwig van Beethoven,Motown,3.910832172493428,25,5,2022
+137,250,classical,classical11,Ludwig van Beethoven,Warner Music Group,2612.727537022099,5,11,2021
+138,83,classical,classical8,Claude Debussy,Sun Records,2950.5745427094926,20,10,2021
+139,167,classical,classical9,Maurice Ravel,Sub Pop Records,1242.2742677009478,1,8,2023
+140,124,classical,classical12,Modest Mussorgsky,Polydor Records,3626.022206102337,11,2,2023
+141,124,classical,classical10,Gabriel Fauré,Merge Records,3785.2441380979126,14,5,2021
+142,216,classical,classical13,Johann Strauss II,Arista Records,4404.055142399715,14,12,2023
+143,163,classical,classical1,Giacomo Puccini,Sub Pop Records,2697.3629344342758,17,5,2021
+144,112,classical,classical15,Giuseppe Verdi,Jive Records,1029.276452551804,19,4,2023
+145,145,classical,classical16,Camille Saint-Saëns,Atlantic Records,7037.69745582892,X,2,2022
+146,138,classical,classical17,Richard Wagner,XL Recordings,4095.6451777520792,X,7,2023
+147,170,classical,classical4,Johannes Brahms,Polydor Records,3612.3137499246004,21,12,2022
+148,126,classical,classical7,Richard Wagner,Verve Records,3699.6450496765347,X,10,2022
+149,164,classical,classical14,Wolfgang Amadeus Mozart,Interscope Records,1607.4905797995743,28,4,2022
+150,153,classical,classical8,Frederic Chopin,XL Recordings,4590.692526970316,6,11,2022
+151,99,classical,classical16,Ludwig van Beethoven,Sub Pop Records,2259.5625552562983,8,6,2023
+152,91,classical,classical12,Igor Stravinsky,Atlantic Records,5159.211715564043,5,1,2023
+153,257,classical,classical1,Antonín Dvořák,Sun Records,1351.9290660359804,15,1,2023
+154,197,classical,classical1,Gustav Mahler,Tommy Boy Entertainment,4209.761577996038,16,2,2022
+155,179,classical,classical1,Pyotr Ilyich Tchaikovsky,Sire Records,1060.4720378036677,6,8,X
+156,232,classical,classical5,Modest Mussorgsky,MCA Records,972.4095729652984,22,3,2021
+157,92,classical,classical0,Richard Wagner,Sun Records,4713.496439936758,29,8,2021
+158,66,classical,classical12,Richard Wagner,Motown,3805.916268313287,3,8,2021
+159,128,classical,classical6,Dmitri Shostakovich,Sun Records,4706.590123505062,10,10,2021
+160,158,classical,classical3,Dmitri Shostakovich,4AD,1899.8258983117023,22,12,2021
+161,120,classical,classical18,Ludwig van Beethoven,Merge Records,5819.852090530916,8,8,2021
+162,150,classical,classical19,Maurice Ravel,Rough Trade Records,2004.4820129316631,X,6,2023
+163,45,classical,classical2,Johannes Brahms,Sire Records,2257.4708054372113,25,7,2021
+164,118,classical,classical7,Sergei Rachmaninoff,Universal Music Group,4640.461213331268,1,1,2021
+165,176,classical,classical2,Felix Mendelssohn,Columbia Records,3023.426857312703,29,12,X
+166,121,classical,classical6,Antonín Dvořák,Interscope Records,4577.7785536818565,X,12,2022
+167,84,classical,classical18,Antonín Dvořák,Interscope Records,2281.5388285549334,17,11,2021
+168,175,classical,classical8,Carl Orff,Stax Records,2369.817353327469,24,3,X
+169,129,classical,classical9,Franz Schubert,RCA Records,3945.0113239948687,26,7,2022
+170,118,classical,classical13,Giacomo Puccini,Capitol Records,2090.4798028412024,15,6,2023
+171,68,classical,classical7,Benjamin Britten,Columbia Records,2218.791689430984,19,3,2023
+172,119,classical,classical1,Gioachino Rossini,XL Recordings,3427.2723006479946,20,12,2022
+173,174,classical,classical2,Franz Joseph Haydn,Elektra Records,2655.293634346669,X,9,2021
+174,101,classical,classical3,Ludwig van Beethoven,Interscope Records,1763.9795539410284,19,3,2021
+175,61,classical,classical0,Gustav Mahler,Wind-Up Records,4326.748834005575,27,12,2022
+176,103,classical,classical4,Gustav Mahler,Sun Records,3665.391087154082,X,2,2023
+177,64,classical,classical15,Gioachino Rossini,Sub Pop Records,3299.295992319716,16,7,X
+178,135,classical,classical3,Camille Saint-Saëns,Epic Records,3339.694166368232,8,3,2022
+179,108,classical,classical1,Johannes Brahms,Universal Music Group,7050.607193096455,30,6,2021
+180,60,classical,classical12,Edward Elgar,Island Records,5016.087990180588,2,6,2021
+181,180,classical,classical12,Johann Strauss II,Interscope Records,3059.79005274077,11,10,2022
+182,101,classical,classical19,Frederic Chopin,Stax Records,4500.48068979108,18,2,2021
+183,94,classical,classical11,Johann Sebastian Bach,Wind-Up Records,2328.204667275177,6,10,2021
+184,197,classical,classical15,Gioachino Rossini,Def Jam Recordings,3602.523426371694,17,7,2022
+185,128,classical,classical8,Edward Elgar,Island Records,2808.4930193555247,9,2,X
+186,145,classical,classical6,Gustav Mahler,4AD,1707.7321811805639,13,11,X
+187,168,classical,classical17,Claude Debussy,Warner Music Group,3395.2617580211995,16,9,2023
+188,224,classical,classical8,George Frideric Handel,Island Records,4645.19003648435,2,5,2023
+189,139,classical,classical1,George Frideric Handel,XL Recordings,1421.9042283106603,24,4,2021
+190,168,classical,classical12,Maurice Ravel,Sony Music Entertainment,1862.8174684309179,10,7,2021
+191,161,classical,classical11,Camille Saint-Saëns,Island Records,3150.448108714406,27,12,2023
+192,226,classical,classical8,Franz Joseph Haydn,Sony Music Entertainment,2968.639075853987,X,X,2021
+193,150,classical,classical13,Richard Wagner,Republic Records,4376.442788406099,17,2,2022
+194,123,classical,classical10,Bedřich Smetana,Sire Records,590.1473768268338,10,4,2022
+195,239,classical,classical14,Robert Schumann,Merge Records,1141.2111972971168,14,9,2021
+196,67,classical,classical2,George Frideric Handel,Merge Records,946.5389044758126,8,12,2022
+197,297,classical,classical18,Frederic Chopin,Arista Records,2165.793507029639,22,3,2023
+198,168,classical,classical11,Aaron Copland,Sire Records,1487.9819794824464,14,2,2021
+199,103,classical,classical2,George Frideric Handel,Elektra Records,5434.186845163698,16,5,2023
+200,236,classical,classical4,Franz Schubert,Tommy Boy Entertainment,1480.5938791954438,30,12,2022
+201,174,country,country15,Johnny Cash,Polydor Records,2524.1981238672133,8,11,2023
+202,100,country,country3,Johnny Cash,4AD,3647.6011534703794,28,4,X
+203,175,country,country10,Tammy Wynette,Sony Music Entertainment,2377.385219249074,1,8,2023
+204,184,country,country19,Miranda Lambert,Universal Music Group,1554.1096419634964,23,2,2022
+205,147,country,country2,Loretta Lynn,Sony Music Entertainment,4340.412500490181,15,6,2021
+206,154,country,country1,Martina McBride,Rough Trade Records,1930.401352527214,17,10,2021
+207,140,country,country7,Willie Nelson,Polydor Records,758.5278643916349,21,11,2022
+208,116,country,country5,Alan Jackson,Merge Records,3548.1146161067913,28,7,2022
+209,133,country,country5,Charlie Daniels,Atlantic Records,4612.738358143923,23,4,2022
+210,128,country,country18,George Strait,Universal Music Group,1895.9629484405104,20,2,2023
+211,159,country,country6,Martina McBride,4AD,4323.5997639058005,26,11,X
+212,139,country,country3,Rascal Flatts,Polydor Records,5282.108821658561,8,11,X
+213,195,country,country13,Tammy Wynette,Merge Records,2590.0829476565095,19,12,2022
+214,118,country,country2,Emmylou Harris,Interscope Records,2717.1997353768347,10,3,2022
+215,150,country,country19,Martina McBride,Virgin Records,3360.557773337516,3,4,2021
+216,159,country,country13,Patsy Cline,Sire Records,4284.599769221686,5,5,2023
+217,140,country,country2,Waylon Jennings,Arista Records,2136.7828474332437,20,9,2023
+218,150,country,country11,Toby Keith,Stax Records,2224.3348101444435,7,2,2021
+219,219,country,country1,Trisha Yearwood,Polydor Records,791.6178633436798,16,8,2021
+220,143,country,country14,LeAnn Rimes,Interscope Records,1428.9237784077736,8,8,2023
+221,121,country,country17,Alan Jackson,Atlantic Records,104.8194896587861,5,7,2021
+222,113,country,country2,Faith Hill,Motown,2226.210764334348,17,12,2021
+223,152,country,country9,Reba McEntire,Sire Records,975.4063282959319,31,8,2022
+224,181,country,country19,Merle Haggard,BMG Rights Management,1753.4129196821086,24,7,2022
+225,71,country,country3,Toby Keith,Virgin Records,715.7811986046145,X,11,2022
+226,113,country,country9,Dolly Parton,Atlantic Records,4998.697507356355,21,5,X
+227,143,country,country3,Miranda Lambert,Sony Music Entertainment,503.98399781675425,18,8,2022
+228,222,country,country3,Dolly Parton,Sire Records,3954.8704271069637,5,4,2021
+229,154,country,country14,Johnny Cash,Tommy Boy Entertainment,6119.369234421777,28,5,2023
+230,83,country,country6,Shania Twain,Verve Records,1948.5184459382074,21,4,2021
+231,113,country,country19,Blake Shelton,Universal Music Group,3147.913270589223,13,5,2023
+232,97,country,country19,Charlie Daniels,Def Jam Recordings,3019.6409495066246,12,9,2021
+233,203,country,country16,Garth Brooks,Arista Records,3071.3297409702004,5,2,X
+234,151,country,country9,Brooks & Dunn,Columbia Records,940.30884913206,2,9,2023
+235,161,country,country7,Kris Kristofferson,RCA Records,2989.445515703619,14,10,2022
+236,166,country,country13,Patsy Cline,Jive Records,2775.510723333578,X,8,2022
+237,53,country,country11,Loretta Lynn,Merge Records,5596.589982479761,14,11,2023
+238,178,country,country6,Hank Williams,Universal Music Group,4367.246970403272,X,12,2022
+239,133,country,country18,Loretta Lynn,Tommy Boy Entertainment,3254.5855686377527,12,1,2022
+240,285,country,country10,Dolly Parton,Def Jam Recordings,70.78880122233568,6,3,2022
+241,190,country,country0,Tim McGraw,Sun Records,3104.154297988901,28,2,2022
+242,162,country,country2,Hank Williams,Merge Records,4850.482245509485,22,11,2022
+243,186,country,country19,Miranda Lambert,Wind-Up Records,2982.536068943989,3,3,2023
+244,171,country,country17,Rascal Flatts,Stax Records,4035.2350502959616,3,4,2022
+245,201,country,country17,Shania Twain,Jive Records,5152.151921702811,3,6,2021
+246,189,country,country2,Brad Paisley,Island Records,1424.511270844096,3,8,2022
+247,201,country,country0,Shania Twain,Interscope Records,3883.315437673312,24,2,2022
+248,161,country,country13,Kris Kristofferson,Epic Records,2905.246206055941,25,2,2022
+249,66,country,country19,Waylon Jennings,RCA Records,4388.931607911603,3,2,2021
+250,169,country,country1,Emmylou Harris,Wind-Up Records,3520.575297239924,5,1,2021
+251,88,country,country15,George Strait,Elektra Records,5056.340629271957,10,9,2023
+252,99,country,country6,Charlie Daniels,Universal Music Group,3909.1659064243704,17,5,X
+253,193,country,country8,Carrie Underwood,Merge Records,5390.092171636281,X,3,2023
+254,141,country,country17,Emmylou Harris,Tommy Boy Entertainment,2654.278770803708,19,8,2023
+255,145,country,country11,Loretta Lynn,Stax Records,2047.1210564305707,16,11,2021
+256,92,country,country17,LeAnn Rimes,Polydor Records,1177.753151980295,6,5,2021
+257,111,country,country1,Patsy Cline,Rough Trade Records,2160.157147895373,23,2,2021
+258,209,country,country1,Loretta Lynn,Elektra Records,2910.0275927037537,6,9,2022
+259,141,country,country2,Keith Urban,RCA Records,2365.444807047658,20,1,2023
+260,182,country,country0,Keith Urban,4AD,7049.921638493954,28,11,2023
+261,133,country,country14,Martina McBride,Elektra Records,884.2246511652829,13,10,2023
+262,73,country,country16,Merle Haggard,Sire Records,2093.32574639306,X,7,2023
+263,205,country,country12,Carrie Underwood,4AD,4002.8062529570598,25,1,2021
+264,176,country,country4,Loretta Lynn,Warner Music Group,2538.4249256147577,22,5,2022
+265,153,country,country11,Alan Jackson,Merge Records,2473.6759846033374,30,10,2022
+266,222,country,country0,George Strait,Stax Records,4723.312596659787,13,7,2021
+267,130,country,country19,Loretta Lynn,Capitol Records,2265.9710852044,15,2,2021
+268,109,country,country18,Charlie Daniels,Wind-Up Records,6772.27455464304,28,2,2022
+269,177,country,country12,Garth Brooks,Columbia Records,1414.3644222040282,2,8,2023
+270,205,country,country19,Faith Hill,RCA Records,2176.8499444602617,25,6,2023
+271,186,country,country14,Randy Travis,Merge Records,2338.1816858964435,24,6,2021
+272,144,country,country2,Rascal Flatts,Tommy Boy Entertainment,3103.2689542958938,25,7,2023
+273,67,country,country13,Blake Shelton,Polydor Records,467.75488206139335,10,3,2023
+274,146,country,country10,Hank Williams,Columbia Records,1435.9657177119757,10,11,2023
+275,145,country,country18,Loretta Lynn,Atlantic Records,2075.767908167107,X,9,2023
+276,83,country,country7,Miranda Lambert,Republic Records,4854.270225970412,14,6,2023
+277,99,country,country2,Willie Nelson,Virgin Records,4611.235773577516,17,9,2022
+278,115,country,country7,Willie Nelson,Atlantic Records,1119.288064313705,23,8,2023
+279,161,country,country10,Kris Kristofferson,Merge Records,4411.437231252981,30,11,2022
+280,80,country,country12,Dolly Parton,Verve Records,3721.968425263493,18,10,2022
+281,159,country,country18,Blake Shelton,Tommy Boy Entertainment,2408.2553351072283,17,10,2023
+282,96,country,country9,Reba McEntire,Island Records,3386.875018368534,X,11,2022
+283,206,country,country10,Vince Gill,Island Records,3303.229638049221,9,4,2021
+284,237,country,country13,Reba McEntire,BMG Rights Management,3365.2721333193836,16,1,2022
+285,145,country,country2,Loretta Lynn,Sub Pop Records,3943.0607932337957,19,5,2022
+286,134,country,country2,Rascal Flatts,Wind-Up Records,4078.5281672555075,2,1,2021
+287,110,country,country17,Waylon Jennings,Warner Music Group,2540.5816130897456,19,9,2021
+288,89,country,country6,LeAnn Rimes,Sire Records,2504.486201075042,14,2,2021
+289,152,country,country13,Toby Keith,Def Jam Recordings,4169.73966182083,30,8,2021
+290,95,country,country2,Vince Gill,Sire Records,4730.085951150004,2,12,2021
+291,182,country,country17,Toby Keith,Tommy Boy Entertainment,2034.8642735306087,5,10,2023
+292,170,country,country6,Patsy Cline,Arista Records,1028.7120818886601,5,6,2022
+293,64,country,country18,Tim McGraw,Tommy Boy Entertainment,618.0282507058205,2,5,2023
+294,189,country,country19,Brad Paisley,XL Recordings,2125.382829002412,19,7,2021
+295,129,country,country6,Miranda Lambert,4AD,4625.59180096232,25,3,2022
+296,123,country,country5,Waylon Jennings,EMI Group,3209.488600395075,21,9,2021
+297,151,country,country3,Martina McBride,Epic Records,114.1412744687882,19,10,2023
+298,154,country,country13,Alan Jackson,Arista Records,4074.2706206217986,2,7,2023
+299,182,country,country18,Alan Jackson,Merge Records,1989.7188647720295,13,4,2021
+300,136,country,country18,Vince Gill,Sun Records,2741.880234358362,22,9,2021
+301,120,disco,disco18,Odyssey,Republic Records,4419.1410993979025,8,6,X
+302,134,disco,disco10,Rose Royce,4AD,2865.349514217248,27,1,2022
+303,132,disco,disco2,Patrick Hernandez,Sun Records,2198.352344763476,23,8,2022
+304,92,disco,disco14,Village People,Wind-Up Records,3878.384442859152,6,6,2022
+305,162,disco,disco11,Patrick Hernandez,Columbia Records,1072.9803174109977,16,2,2021
+306,130,disco,disco10,LaBelle,RCA Records,1127.1814070829735,25,2,2023
+307,166,disco,disco13,Pointer Sisters,Stax Records,957.4894395790427,6,2,X
+308,160,disco,disco17,Lipps Inc.,Virgin Records,1749.0501923111067,10,1,2021
+309,174,disco,disco12,"Earth, Wind & Fire",Sub Pop Records,4217.80204943292,21,10,2021
+310,95,disco,disco9,Bee Gees,XL Recordings,3910.7804517045806,23,4,2023
+311,208,disco,disco9,Donna Summer,Virgin Records,3248.245794644839,12,5,2022
+312,102,disco,disco12,Sylvester,EMI Group,2909.875648936307,19,5,2022
+313,148,disco,disco8,Donna Summer,Universal Music Group,3271.795164525217,X,4,2021
+314,122,disco,disco9,KC and the Sunshine Band,Wind-Up Records,4216.78974893292,11,6,2023
+315,155,disco,disco10,Silver Convention,Sun Records,2607.3817033242867,30,7,2023
+316,168,disco,disco18,Thelma Houston,Wind-Up Records,3902.7539254649623,28,5,2023
+317,175,disco,disco1,Diana Ross,Wind-Up Records,2287.4169491619855,24,8,2021
+318,149,disco,disco8,Rick James,Motown,1.003940513108773,11,7,2023
+319,152,disco,disco0,Thelma Houston,Arista Records,2860.253089430025,18,9,2023
+320,215,disco,disco0,Bee Gees,4AD,2086.3287037810574,28,1,2023
+321,109,disco,disco2,Village People,Columbia Records,2625.63607868137,24,4,2021
+322,122,disco,disco11,Donna Summer,Columbia Records,2320.096003720816,26,11,2021
+323,92,disco,disco5,Sylvester,Def Jam Recordings,1840.0393690648016,9,8,2022
+324,288,disco,disco0,George McCrae,Sun Records,942.0034266154867,20,4,2022
+325,144,disco,disco19,Baccara,Wind-Up Records,3936.279915730065,2,12,2023
+326,149,disco,disco15,Lipps Inc.,Republic Records,1602.1749018028627,6,3,X
+327,111,disco,disco4,Donna Summer,Def Jam Recordings,2885.315650716971,7,10,2023
+328,157,disco,disco18,Grace Jones,Rough Trade Records,3677.9298501942512,13,6,2022
+329,140,disco,disco15,Anita Ward,Rough Trade Records,151.38667377831734,31,12,X
+330,83,disco,disco18,Diana Ross,Rough Trade Records,5161.439076776557,14,6,2021
+331,220,disco,disco3,Lipps Inc.,Merge Records,3257.3641968025145,20,5,2023
+332,48,disco,disco7,Chic,Capitol Records,3170.185980501497,7,9,2023
+333,92,disco,disco0,The O'Jays,Motown,3976.6208927437065,24,4,2022
+334,170,disco,disco18,George McCrae,Sony Music Entertainment,5705.472056023116,9,10,2023
+335,215,disco,disco19,Baccara,Stax Records,5134.879635240655,21,10,X
+336,150,disco,disco16,LaBelle,Capitol Records,3527.233300465171,10,4,X
+337,157,disco,disco14,The O'Jays,XL Recordings,3345.6882175615733,4,4,2023
+338,133,disco,disco16,Gibson Brothers,Island Records,1.774646821552778,4,4,2022
+339,153,disco,disco2,Tavares,BMG Rights Management,2395.4088131953695,6,3,2023
+340,126,disco,disco6,Candi Staton,Columbia Records,3449.5427689734743,5,4,2023
+341,122,disco,disco3,Tavares,Atlantic Records,3253.9476949787036,28,4,2023
+342,97,disco,disco19,Shalamar,Sub Pop Records,506.2513658727976,X,9,2023
+343,179,disco,disco6,Michael Jackson,Interscope Records,4655.692305753988,17,1,2023
+344,127,disco,disco5,Candi Staton,Interscope Records,5165.668024578596,X,11,2023
+345,178,disco,disco6,Grace Jones,Merge Records,4573.172893793041,19,5,2023
+346,157,disco,disco12,KC and the Sunshine Band,Elektra Records,4654.629893149006,3,5,2021
+347,165,disco,disco1,Pointer Sisters,Columbia Records,1269.2681283012253,29,9,2023
+348,114,disco,disco5,Kool & the Gang,XL Recordings,3109.1964147700432,29,6,2021
+349,142,disco,disco7,Shalamar,Columbia Records,2515.272841718418,X,8,2022
+350,87,disco,disco17,Village People,4AD,1455.992657823578,11,8,2022
+351,152,disco,disco3,Silver Convention,Sub Pop Records,4652.687792533914,15,5,2023
+352,166,disco,disco10,Tavares,Rough Trade Records,3591.3838654899564,8,11,X
+353,183,disco,disco3,Diana Ross,Wind-Up Records,4709.660817273741,22,9,2023
+354,146,disco,disco4,Patrick Hernandez,EMI Group,1524.6441604456988,19,10,2023
+355,157,disco,disco4,George McCrae,Jive Records,3485.923287705724,26,6,2022
+356,159,disco,disco6,The Trammps,Sony Music Entertainment,3610.932699831511,19,12,2021
+357,103,disco,disco15,Baccara,Epic Records,5035.781979265377,1,3,2021
+358,150,disco,disco15,Shalamar,Merge Records,169.81852989867866,15,3,2021
+359,140,disco,disco13,Chic,Sony Music Entertainment,1407.7421857050826,X,9,X
+360,149,disco,disco2,Patrick Hernandez,Tommy Boy Entertainment,2956.415180586112,4,8,2021
+361,156,disco,disco15,Rick James,Elektra Records,1489.251797101858,23,10,2023
+362,180,disco,disco17,Candi Staton,Republic Records,3870.67114778399,X,12,2023
+363,151,disco,disco8,Village People,Wind-Up Records,2156.493894910923,8,4,2021
+364,30,disco,disco16,Gibson Brothers,RCA Records,3512.346235383118,1,1,2022
+365,246,disco,disco19,"Earth, Wind & Fire",XL Recordings,2731.6200936007112,4,2,2022
+366,109,disco,disco1,Diana Ross,Virgin Records,2852.952169086727,18,10,2022
+367,93,disco,disco9,Odyssey,Warner Music Group,561.329595622195,7,4,2023
+368,99,disco,disco8,Lipps Inc.,XL Recordings,902.781613791215,25,8,2021
+369,192,disco,disco9,Silver Convention,MCA Records,1302.673565030381,14,10,2021
+370,122,disco,disco12,Silver Convention,Warner Music Group,2148.759119064313,13,11,2023
+371,120,disco,disco3,Rick James,BMG Rights Management,6182.838120934322,26,11,2021
+372,170,disco,disco1,Shalamar,Epic Records,2408.2800704555575,19,2,2022
+373,115,disco,disco9,Sister Sledge,Sony Music Entertainment,2624.5086706114944,20,2,2022
+374,171,disco,disco12,Gloria Gaynor,XL Recordings,4359.921675186197,5,6,2023
+375,152,disco,disco0,Lipps Inc.,Jive Records,2599.6651084932773,20,6,2021
+376,140,disco,disco11,Baccara,Epic Records,1962.5000904203052,7,10,2021
+377,223,disco,disco12,Pointer Sisters,Elektra Records,4328.841185566606,24,5,2023
+378,140,disco,disco15,Grace Jones,Def Jam Recordings,3235.3612869316057,6,3,2021
+379,153,disco,disco4,Rose Royce,Verve Records,3952.22514172802,X,4,2023
+380,146,disco,disco12,Baccara,Def Jam Recordings,660.7194324428278,20,11,2022
+381,117,disco,disco8,The Jacksons,Warner Music Group,3332.3408379527064,15,9,2021
+382,86,disco,disco12,KC and the Sunshine Band,Merge Records,2647.6541313385396,3,4,2022
+383,167,disco,disco10,The Trammps,MCA Records,3638.031282622457,1,11,2023
+384,111,disco,disco13,The O'Jays,Motown,3151.2443197178727,9,3,2022
+385,119,disco,disco16,Tavares,Arista Records,6123.247971155725,11,6,2021
+386,66,disco,disco2,Odyssey,Sun Records,3348.8797849509815,18,3,2021
+387,161,disco,disco5,Grace Jones,Virgin Records,3345.8119373476593,9,2,2021
+388,114,disco,disco2,Chic,Columbia Records,2477.8093621096,12,12,2021
+389,187,disco,disco9,George McCrae,Virgin Records,1879.671213568222,7,10,2022
+390,82,disco,disco13,The O'Jays,Def Jam Recordings,3261.4244711719703,7,7,2023
+391,175,disco,disco4,Village People,Sun Records,3214.6938956164786,20,5,2021
+392,134,disco,disco6,Silver Convention,Sony Music Entertainment,1591.3647357945194,11,9,2021
+393,152,disco,disco12,Grace Jones,Rough Trade Records,5951.521512461071,X,3,2023
+394,170,disco,disco11,George McCrae,Sony Music Entertainment,5395.197424351962,7,2,2021
+395,152,disco,disco14,Gibson Brothers,Virgin Records,3460.1057311094123,16,11,X
+396,108,disco,disco17,KC and the Sunshine Band,RCA Records,375.82419652820727,8,8,X
+397,205,disco,disco16,Shalamar,4AD,4452.778208961275,27,12,2022
+398,151,disco,disco13,Amii Stewart,Arista Records,6278.383444576808,15,7,2023
+399,227,disco,disco6,ABBA,Jive Records,4439.435027677604,26,6,2023
+400,190,disco,disco4,Rick James,Atlantic Records,3718.578147493207,4,10,2022
+401,103,hiphop,hiphop8,Beyoncé,Republic Records,2709.6364624543075,5,3,2023
+402,106,hiphop,hiphop17,J. Cole,Arista Records,5022.635614439049,28,1,2023
+403,125,hiphop,hiphop10,Nicki Minaj,Universal Music Group,4679.710122229667,3,6,2021
+404,155,hiphop,hiphop18,50 Cent,Merge Records,1291.6314436842554,27,3,2021
+405,109,hiphop,hiphop8,Rakim,XL Recordings,2761.1435160258693,11,11,2021
+406,96,hiphop,hiphop15,50 Cent,Merge Records,2791.9416948823678,X,4,2022
+407,101,hiphop,hiphop19,Cardi B,XL Recordings,3225.5279257542907,4,5,2023
+408,166,hiphop,hiphop12,Beyoncé,Merge Records,918.4430562920033,2,11,2021
+409,142,hiphop,hiphop16,2Pac,Merge Records,284.28505589615816,24,7,2023
+410,134,hiphop,hiphop10,J. Cole,BMG Rights Management,4534.757397180077,14,4,2023
+411,103,hiphop,hiphop15,Lauryn Hill,Columbia Records,3621.7653757354856,15,3,2022
+412,133,hiphop,hiphop17,Drake,Polydor Records,2358.9899014892358,27,6,2022
+413,102,hiphop,hiphop0,Biggie Smalls,Stax Records,1099.0310035133798,23,3,2023
+414,68,hiphop,hiphop13,M.I.A.,Sun Records,2249.6727132588235,5,2,2022
+415,136,hiphop,hiphop0,Nas,Sub Pop Records,3213.4646960308346,15,11,2023
+416,43,hiphop,hiphop7,Kanye West,RCA Records,3399.144239642201,10,4,2023
+417,62,hiphop,hiphop10,Wiz Khalifa,BMG Rights Management,5670.597943311343,1,1,2022
+418,146,hiphop,hiphop3,J. Cole,4AD,5345.080934872469,7,7,2021
+419,126,hiphop,hiphop17,Lil Wayne,Verve Records,1486.767128458802,27,9,2023
+420,112,hiphop,hiphop12,"Tyler, The Creator",Sub Pop Records,4511.1511618907225,12,4,2021
+421,148,hiphop,hiphop4,Ice Cube,Tommy Boy Entertainment,5749.041179005154,17,11,2023
+422,195,hiphop,hiphop13,Run-D.M.C.,Merge Records,2096.780454664078,X,5,2023
+423,153,hiphop,hiphop5,Snoop Dogg,Atlantic Records,4290.824486559721,25,5,2023
+424,199,hiphop,hiphop3,Missy Elliott,Arista Records,5258.201993952545,26,5,2021
+425,147,hiphop,hiphop2,Jay-Z,Capitol Records,4024.312389746713,20,8,2023
+426,99,hiphop,hiphop4,J. Cole,Interscope Records,3114.2799863430705,1,2,2022
+427,127,hiphop,hiphop16,Snoop Dogg,Warner Music Group,5600.500887091906,12,6,2022
+428,65,hiphop,hiphop4,Chance the Rapper,Stax Records,2334.0143006286394,23,12,2023
+429,223,hiphop,hiphop6,Snoop Dogg,Atlantic Records,2868.6482065266578,19,6,2023
+430,115,hiphop,hiphop8,Kendrick Lamar,Merge Records,273.1379579718864,23,10,2023
+431,125,hiphop,hiphop6,2Pac,EMI Group,2263.2521202575135,26,2,2022
+432,59,hiphop,hiphop10,Kanye West,4AD,4078.839356319336,19,8,2023
+433,76,hiphop,hiphop13,Kanye West,Arista Records,2366.913916335101,30,12,2021
+434,199,hiphop,hiphop10,J. Cole,MCA Records,1571.5748428875963,21,6,2023
+435,142,hiphop,hiphop11,Run-D.M.C.,Republic Records,2212.571543694552,9,8,2023
+436,92,hiphop,hiphop17,Beyoncé,Universal Music Group,3175.3939276282576,6,12,X
+437,200,hiphop,hiphop5,Kanye West,Arista Records,3638.0755013923363,29,3,X
+438,117,hiphop,hiphop19,Nas,Verve Records,1889.2836552534002,27,4,2023
+439,91,hiphop,hiphop6,A$AP Rocky,Verve Records,4548.953652946297,21,3,2023
+440,222,hiphop,hiphop11,Run-D.M.C.,Motown,2854.4073970096733,26,8,2023
+441,169,hiphop,hiphop16,"Tyler, The Creator",EMI Group,2304.658176955592,7,4,2021
+442,168,hiphop,hiphop7,Future,4AD,4257.371296478538,1,6,2023
+443,147,hiphop,hiphop19,"Tyler, The Creator",Capitol Records,735.1821518405754,15,1,2023
+444,86,hiphop,hiphop19,Biggie Smalls,Warner Music Group,1165.0754694366728,28,4,2021
+445,150,hiphop,hiphop12,Biggie Smalls,Verve Records,2328.5391178553264,31,1,2021
+446,157,hiphop,hiphop9,Biggie Smalls,Merge Records,2218.4612893931485,20,12,2022
+447,118,hiphop,hiphop14,Jay-Z,Arista Records,3441.449436137929,25,4,2023
+448,134,hiphop,hiphop15,Logic,RCA Records,2614.897843371571,26,7,2022
+449,151,hiphop,hiphop2,Public Enemy,Arista Records,1259.0785276679276,19,6,2021
+450,77,hiphop,hiphop12,Missy Elliott,4AD,662.7521340386697,22,9,2021
+451,130,hiphop,hiphop19,A$AP Rocky,MCA Records,6045.902877838804,10,10,2021
+452,83,hiphop,hiphop13,Travis Scott,Warner Music Group,4627.777192063305,26,9,2022
+453,106,hiphop,hiphop11,Ice Cube,Columbia Records,4088.9418441381786,19,2,2022
+454,197,hiphop,hiphop19,Nas,XL Recordings,5597.642965391444,9,2,2023
+455,161,hiphop,hiphop9,Eminem,Polydor Records,6504.614687058203,13,1,2023
+456,127,hiphop,hiphop12,2Pac,Arista Records,5340.210521743593,X,1,2023
+457,461,hiphop,hiphop14,Rakim,Virgin Records,1624.66255564078,X,4,2023
+458,50,hiphop,hiphop11,Kid Cudi,BMG Rights Management,4539.077109943265,3,10,2023
+459,139,hiphop,hiphop17,Lupe Fiasco,Atlantic Records,1010.8325052641139,31,5,2022
+460,93,hiphop,hiphop1,Public Enemy,Atlantic Records,4818.334730366531,26,2,2022
+461,73,hiphop,hiphop6,Public Enemy,Rough Trade Records,4819.809587783801,26,8,2021
+462,124,hiphop,hiphop14,Cardi B,Tommy Boy Entertainment,4283.685359943369,20,3,2021
+463,159,hiphop,hiphop19,Missy Elliott,Elektra Records,3899.920113454399,4,4,2021
+464,99,hiphop,hiphop4,Snoop Dogg,Elektra Records,1531.1162266968008,18,10,2023
+465,207,hiphop,hiphop1,Megan Thee Stallion,4AD,1649.3491299683785,16,1,2021
+466,193,hiphop,hiphop6,Lil Uzi Vert,Def Jam Recordings,4881.3102468826955,X,7,X
+467,177,hiphop,hiphop0,Biggie Smalls,Merge Records,2498.3620534105344,13,12,2022
+468,159,hiphop,hiphop7,Cardi B,Sun Records,2330.0276808926224,6,4,2021
+469,106,hiphop,hiphop4,Nicki Minaj,Merge Records,5236.077440431862,11,7,2023
+470,211,hiphop,hiphop13,50 Cent,Virgin Records,2994.0884231101118,29,12,2023
+471,163,hiphop,hiphop18,Drake,4AD,5810.696502678267,23,9,2021
+472,139,hiphop,hiphop0,Ice Cube,Sub Pop Records,2893.8237806974817,10,12,X
+473,84,hiphop,hiphop1,Drake,4AD,4205.979612981997,24,5,2022
+474,110,hiphop,hiphop8,Snoop Dogg,Merge Records,217.24761186745081,8,6,2021
+475,150,hiphop,hiphop17,Beyoncé,BMG Rights Management,1652.2017208079856,30,12,X
+476,207,hiphop,hiphop1,Chance the Rapper,Motown,4548.89546390677,16,5,2021
+477,102,hiphop,hiphop10,Biggie Smalls,Columbia Records,2602.6802987041533,23,8,2021
+478,136,hiphop,hiphop2,Wiz Khalifa,Epic Records,3242.89541005874,25,7,2023
+479,169,hiphop,hiphop11,Eminem,XL Recordings,3173.396362782092,18,12,2023
+480,147,hiphop,hiphop5,Lil Wayne,Merge Records,2384.3393434438444,6,6,2022
+481,136,hiphop,hiphop2,Lil Wayne,BMG Rights Management,4609.275261998128,31,3,2022
+482,174,hiphop,hiphop10,Missy Elliott,Virgin Records,3659.3629830725786,17,9,2021
+483,129,hiphop,hiphop15,2Pac,Jive Records,4320.155067171454,14,11,2021
+484,216,hiphop,hiphop0,A$AP Rocky,Tommy Boy Entertainment,4096.795816753454,7,1,2022
+485,170,hiphop,hiphop16,Run-D.M.C.,Interscope Records,1843.9479490412264,31,8,2022
+486,75,hiphop,hiphop14,Travis Scott,Merge Records,3899.8714330961902,25,6,2022
+487,83,hiphop,hiphop19,Megan Thee Stallion,Universal Music Group,2263.1070201849648,19,9,2021
+488,116,hiphop,hiphop6,Nicki Minaj,Sony Music Entertainment,3487.7875843656766,15,4,2021
+489,163,hiphop,hiphop12,J. Cole,Rough Trade Records,3808.299019275353,17,11,2023
+490,97,hiphop,hiphop18,Travis Scott,4AD,3711.0614275147423,X,10,2021
+491,172,hiphop,hiphop13,Lil Wayne,Arista Records,1896.5181015531884,7,9,2023
+492,146,hiphop,hiphop12,J. Cole,Interscope Records,2915.6271340135377,27,4,2023
+493,202,hiphop,hiphop5,Logic,Columbia Records,3779.432191340471,12,11,2023
+494,117,hiphop,hiphop2,Biggie Smalls,Jive Records,2880.8491617618774,3,12,2022
+495,201,hiphop,hiphop12,Lil Uzi Vert,Sun Records,254.9513234934675,4,1,2021
+496,160,hiphop,hiphop3,OutKast,Virgin Records,5879.6026606855485,X,5,X
+497,151,hiphop,hiphop16,Run-D.M.C.,Tommy Boy Entertainment,3323.2002090912024,24,11,2022
+498,174,hiphop,hiphop1,Drake,Motown,2716.6417529731243,6,12,2022
+499,76,hiphop,hiphop11,Nicki Minaj,RCA Records,3904.8253401884026,10,5,2021
+500,161,hiphop,hiphop0,Eminem,Motown,2835.309881011736,21,4,2023
+501,161,jazz,jazz3,Lester Young,Sony Music Entertainment,3898.0915691387436,X,5,2023
+502,173,jazz,jazz3,Duke Ellington,Island Records,3970.256382375738,4,6,2023
+503,189,jazz,jazz7,Stan Getz,Interscope Records,3302.4562163946052,28,7,2021
+504,242,jazz,jazz9,Bill Evans,Interscope Records,2482.2656289339793,25,7,2021
+505,96,jazz,jazz9,Charlie Christian,Sub Pop Records,5608.366341201279,28,12,2023
+506,43,jazz,jazz8,Ella Fitzgerald,Republic Records,838.9640164425982,19,7,2023
+507,120,jazz,jazz1,Nat King Cole,Def Jam Recordings,1540.747737905588,13,12,2022
+508,190,jazz,jazz19,Billie Holiday,Sub Pop Records,2782.6907447909684,3,10,2022
+509,140,jazz,jazz12,Duke Ellington,EMI Group,1981.883840951817,6,9,X
+510,170,jazz,jazz1,Diana Krall,4AD,1815.4424881790803,22,6,2022
+511,101,jazz,jazz14,John Coltrane,Sony Music Entertainment,4183.846781621191,18,12,2021
+512,120,jazz,jazz13,Ahmad Jamal,BMG Rights Management,537.3151023697201,11,10,2023
+513,98,jazz,jazz14,Charles Mingus,Virgin Records,3456.412392397413,22,11,2021
+514,115,jazz,jazz11,Coleman Hawkins,Warner Music Group,6420.283482839302,9,5,2022
+515,109,jazz,jazz15,Dizzy Gillespie,RCA Records,3444.1664471713902,21,11,2022
+516,125,jazz,jazz9,Joe Pass,MCA Records,1102.7854265479177,7,11,2021
+517,94,jazz,jazz18,Bill Evans,RCA Records,4359.880231661775,11,3,2022
+518,173,jazz,jazz9,Dave Brubeck,Merge Records,2874.872837186221,8,7,X
+519,125,jazz,jazz16,Miles Davis,Interscope Records,3980.636092110039,22,11,2022
+520,145,jazz,jazz13,Dexter Gordon,Island Records,592.1541238456434,20,7,2022
+521,76,jazz,jazz3,Wayne Shorter,Columbia Records,890.2658188652608,3,3,X
+522,137,jazz,jazz7,Nat King Cole,Warner Music Group,5567.4277175163315,25,3,2023
+523,170,jazz,jazz9,Diana Krall,Rough Trade Records,2948.762242302332,6,9,2023
+524,46,jazz,jazz17,Nat King Cole,Elektra Records,4281.8098780348255,9,8,2021
+525,125,jazz,jazz15,Sarah Vaughan,Sire Records,639.5236363802996,31,5,2021
+526,109,jazz,jazz4,Benny Goodman,4AD,1286.0844646423905,X,3,2021
+527,148,jazz,jazz16,John Coltrane,BMG Rights Management,4158.385524558826,14,5,2023
+528,100,jazz,jazz16,Art Blakey,4AD,5503.3846435906335,30,9,2022
+529,184,jazz,jazz9,Coleman Hawkins,Stax Records,3510.0171198966227,12,12,2022
+530,201,jazz,jazz3,Cannonball Adderley,Island Records,3317.731945017087,9,6,2021
+531,101,jazz,jazz8,Joe Pass,Columbia Records,337.07701157343536,13,11,X
+532,105,jazz,jazz8,Coleman Hawkins,MCA Records,954.7103725720624,X,9,2023
+533,179,jazz,jazz9,Coleman Hawkins,BMG Rights Management,1731.6816646174393,X,12,X
+534,36,jazz,jazz11,Coleman Hawkins,Interscope Records,2729.8911184450594,14,3,2021
+535,143,jazz,jazz12,Cannonball Adderley,RCA Records,4923.249894548911,9,4,2023
+536,93,jazz,jazz0,Ella Fitzgerald,Sun Records,2018.427221299915,15,7,2022
+537,176,jazz,jazz3,Ahmad Jamal,EMI Group,2632.4774910448195,10,5,2022
+538,151,jazz,jazz13,Lester Young,XL Recordings,3167.931664187121,6,10,2021
+539,164,jazz,jazz13,Count Basie,Island Records,1672.5797244155242,X,11,2021
+540,164,jazz,jazz10,Duke Ellington,EMI Group,2902.207703588312,11,8,2022
+541,167,jazz,jazz3,Nat King Cole,Stax Records,3137.2783905471033,22,9,2023
+542,147,jazz,jazz8,John Coltrane,Wind-Up Records,3372.844224913957,24,12,2023
+543,191,jazz,jazz1,Sonny Rollins,Arista Records,3822.589805966659,28,6,2022
+544,155,jazz,jazz0,Stan Getz,Def Jam Recordings,670.4280366675866,12,4,X
+545,191,jazz,jazz12,Wes Montgomery,Sub Pop Records,3370.4166569612185,8,10,2021
+546,134,jazz,jazz2,Chet Baker,Merge Records,4283.206618198413,11,12,2023
+547,201,jazz,jazz3,Cannonball Adderley,Motown,3578.276523279747,15,1,2021
+548,133,jazz,jazz6,Ahmad Jamal,Merge Records,3355.395353067561,16,10,2021
+549,177,jazz,jazz5,Charlie Christian,EMI Group,4237.883568867785,15,4,2021
+550,228,jazz,jazz13,Ella Fitzgerald,Epic Records,2670.9121659618795,7,6,2022
+551,179,jazz,jazz1,John Coltrane,Interscope Records,3832.478607848484,25,6,2022
+552,193,jazz,jazz2,Charles Mingus,Universal Music Group,4394.563597206449,25,7,X
+553,124,jazz,jazz16,Sarah Vaughan,BMG Rights Management,3091.501695894774,3,1,2022
+554,208,jazz,jazz6,Oscar Peterson,XL Recordings,1277.8278999752256,X,1,2022
+555,223,jazz,jazz7,Sarah Vaughan,EMI Group,5163.778881978449,10,12,2022
+556,132,jazz,jazz5,Count Basie,Atlantic Records,3809.7481294600016,27,4,2023
+557,97,jazz,jazz8,Art Blakey,Island Records,158.37378549102505,12,6,2023
+558,129,jazz,jazz9,Charles Mingus,EMI Group,4762.111202976359,X,11,2022
+559,110,jazz,jazz7,Thelonious Monk,Sony Music Entertainment,2031.3745607810479,28,1,2021
+560,179,jazz,jazz3,Herbie Hancock,Republic Records,1756.3816059990452,3,7,2022
+561,121,jazz,jazz19,Joe Pass,Merge Records,4480.380367965588,21,7,2021
+562,78,jazz,jazz18,Herbie Hancock,Stax Records,3417.651158041195,17,11,2022
+563,92,jazz,jazz10,Joe Pass,Virgin Records,1240.9419570381003,11,3,2023
+564,124,jazz,jazz5,Billie Holiday,Motown,2504.6159055233047,7,11,2023
+565,174,jazz,jazz15,Keith Jarrett,Virgin Records,3095.6204696250547,15,7,2023
+566,91,jazz,jazz12,Cannonball Adderley,Jive Records,3179.1890846236647,28,12,X
+567,76,jazz,jazz17,Chick Corea,4AD,2649.871297542787,23,4,2021
+568,177,jazz,jazz18,Diana Krall,Rough Trade Records,5660.258218480032,X,11,2021
+569,123,jazz,jazz18,Sarah Vaughan,Interscope Records,6173.78060516527,9,2,2021
+570,157,jazz,jazz3,Louis Armstrong,Rough Trade Records,1132.0962839960487,14,1,2022
+571,184,jazz,jazz9,Dave Brubeck,Universal Music Group,3872.759810268275,X,3,2021
+572,105,jazz,jazz0,Ella Fitzgerald,Rough Trade Records,1467.8013900568812,8,4,2023
+573,140,jazz,jazz14,Count Basie,Stax Records,3128.2494825991976,9,1,2023
+574,198,jazz,jazz8,Bill Evans,4AD,2073.3491160519216,7,2,2023
+575,87,jazz,jazz17,Ahmad Jamal,Merge Records,1093.131541802317,X,5,2022
+576,85,jazz,jazz3,Dave Brubeck,Arista Records,5044.03920354866,31,12,2023
+577,126,jazz,jazz0,Wes Montgomery,Sun Records,5230.963256268482,12,12,2022
+578,162,jazz,jazz0,John Coltrane,Republic Records,787.9568814973713,12,6,2021
+579,82,jazz,jazz8,Keith Jarrett,Columbia Records,3411.7049478698627,29,11,2021
+580,177,jazz,jazz19,John Coltrane,Sun Records,2196.5825530363036,26,7,2023
+581,134,jazz,jazz9,Chet Baker,BMG Rights Management,2250.123133375749,9,6,2023
+582,115,jazz,jazz14,Oscar Peterson,Sub Pop Records,3784.510555016991,29,9,2023
+583,48,jazz,jazz6,Duke Ellington,Arista Records,2101.4424994283377,28,10,2021
+584,165,jazz,jazz3,Benny Goodman,Interscope Records,3658.2221198225316,5,3,2023
+585,95,jazz,jazz8,Count Basie,EMI Group,5623.814714354306,11,8,2022
+586,169,jazz,jazz14,Louis Armstrong,Motown,1637.1650631966875,X,12,X
+587,120,jazz,jazz7,Louis Armstrong,Republic Records,4197.764204383429,X,X,X
+588,183,jazz,jazz3,Lester Young,Motown,3856.8703217339007,17,2,2021
+589,125,jazz,jazz18,Charlie Parker,Universal Music Group,3231.8648529655084,25,10,X
+590,109,jazz,jazz3,Cannonball Adderley,Motown,2534.717509687511,4,10,2022
+591,104,jazz,jazz1,Chick Corea,RCA Records,2852.5766314590755,16,1,2023
+592,190,jazz,jazz19,Billie Holiday,Atlantic Records,3197.013298494795,18,6,2023
+593,139,jazz,jazz4,Oscar Peterson,Elektra Records,2180.7633491590823,23,11,2021
+594,203,jazz,jazz8,Benny Goodman,Interscope Records,1183.9185228261165,24,2,2022
+595,98,jazz,jazz7,Wes Montgomery,Warner Music Group,4540.467109280826,12,1,2021
+596,95,jazz,jazz13,Coleman Hawkins,Jive Records,2645.108196859868,14,12,2022
+597,173,jazz,jazz2,Dizzy Gillespie,Columbia Records,884.309124125135,27,11,X
+598,159,jazz,jazz7,Sonny Rollins,Universal Music Group,1594.1988196260818,8,8,2021
+599,226,jazz,jazz11,Benny Goodman,Verve Records,2916.9730117099766,18,4,2022
+600,142,jazz,jazz3,Charles Mingus,Merge Records,5397.337153813472,31,1,2021
+601,175,metal,metal13,Floor Jansen,XL Recordings,827.6589661588459,20,6,2023
+602,140,metal,metal14,Axl Rose,Virgin Records,3350.280335905687,23,8,2022
+603,105,metal,metal13,Sharon den Adel,Sony Music Entertainment,4302.510374321729,15,2,2022
+604,146,metal,metal9,Chuck Schuldiner,Def Jam Recordings,2687.9937363880986,4,12,X
+605,220,metal,metal8,Ozzy Osbourne,Polydor Records,1008.0822868104751,2,3,2023
+606,151,metal,metal13,Rob Halford,BMG Rights Management,359.0167657631414,11,3,2021
+607,144,metal,metal9,Tony Iommi,Virgin Records,2961.010156759191,28,4,X
+608,92,metal,metal9,Joey DeMaio,Jive Records,2860.2214938828433,23,10,X
+609,123,metal,metal8,Simone Simons,EMI Group,2137.3793685997257,2,12,X
+610,122,metal,metal16,Lemmy Kilmister,Island Records,3233.2950731396513,24,2,2022
+611,172,metal,metal16,Floor Jansen,Tommy Boy Entertainment,3777.8640537105684,13,10,2021
+612,123,metal,metal19,Sharon den Adel,Island Records,1013.3102733922356,19,4,2021
+613,145,metal,metal2,James Hetfield,Virgin Records,529.0779984852174,2,4,2022
+614,104,metal,metal0,Dave Mustaine,Merge Records,1552.8658995314634,10,9,2022
+615,174,metal,metal4,Mikael Akerfeldt,Capitol Records,2094.9132246588315,12,3,2022
+616,145,metal,metal19,Joey DeMaio,Interscope Records,1399.112637212701,14,9,2021
+617,162,metal,metal16,Sharon den Adel,Capitol Records,5129.115056291958,1,11,2023
+618,155,metal,metal8,Michael Amott,Sire Records,1280.9339665822224,4,6,2022
+619,206,metal,metal13,Max Cavalera,Rough Trade Records,5572.8497313731195,22,9,2023
+620,181,metal,metal18,Marty Friedman,Columbia Records,4293.838161107461,25,3,2021
+621,142,metal,metal6,Zakk Wylde,Sony Music Entertainment,3679.052422645676,18,2,2023
+622,184,metal,metal14,Zakk Wylde,EMI Group,3386.6934813966263,23,2,2023
+623,192,metal,metal7,Zakk Wylde,Warner Music Group,2175.1696213338023,8,1,2021
+624,127,metal,metal11,Sharon den Adel,Interscope Records,3674.2396446848174,30,9,2022
+625,57,metal,metal4,Lemmy Kilmister,Polydor Records,3023.1075606006993,X,4,2022
+626,480,metal,metal1,Alissa White-Gluz,Motown,3918.2871068143386,8,10,2021
+627,63,metal,metal3,Lars Ulrich,Columbia Records,3819.2910355460795,7,1,2023
+628,142,metal,metal2,Kirk Hammett,Wind-Up Records,2324.4443793206883,20,6,2022
+629,114,metal,metal0,Tom Araya,Atlantic Records,3921.1386192233103,28,1,X
+630,132,metal,metal0,Mikael Akerfeldt,Sun Records,4102.779552432793,27,1,2021
+631,147,metal,metal2,Mille Petrozza,Merge Records,5078.057793975766,28,7,2021
+632,201,metal,metal12,Ozzy Osbourne,Interscope Records,3125.6831360148576,X,X,2023
+633,109,metal,metal5,Ozzy Osbourne,MCA Records,5935.130920233323,29,6,2023
+634,81,metal,metal12,Tom Araya,Motown,2546.3549075939354,12,12,2022
+635,49,metal,metal10,Floor Jansen,Epic Records,1614.3027233424775,23,1,2022
+636,247,metal,metal19,Randy Rhoads,Sun Records,1840.5109350433377,22,7,2022
+637,167,metal,metal3,Rob Halford,BMG Rights Management,2177.1409970580416,12,4,2022
+638,115,metal,metal16,Tom Araya,Stax Records,2160.5994307237625,13,2,X
+639,134,metal,metal12,Sharon den Adel,Elektra Records,1843.7064406422862,1,8,X
+640,96,metal,metal0,Lars Ulrich,Stax Records,4556.990817899363,X,4,2023
+641,137,metal,metal7,Axl Rose,Island Records,2215.492120876963,X,2,2022
+642,83,metal,metal0,Joey DeMaio,Columbia Records,4708.527093723782,30,8,X
+643,155,metal,metal12,Kirk Hammett,Jive Records,904.1975765298548,12,4,2022
+644,61,metal,metal16,Joey DeMaio,Tommy Boy Entertainment,5222.832930310422,14,6,2023
+645,96,metal,metal4,Axl Rose,Interscope Records,3036.0700653649556,3,3,2023
+646,450,metal,metal10,Angela Gossow,Atlantic Records,1739.1781292588366,29,5,2022
+647,215,metal,metal10,Ozzy Osbourne,Island Records,2711.508554846543,19,12,2022
+648,115,metal,metal13,Floor Jansen,Tommy Boy Entertainment,2745.833414820545,X,X,2023
+649,162,metal,metal17,Joey DeMaio,MCA Records,1473.3547156758384,25,7,2021
+650,56,metal,metal9,Sharon den Adel,Wind-Up Records,3423.4640967268965,7,4,2023
+651,105,metal,metal0,Cristina Scabbia,BMG Rights Management,2678.1329411560287,2,3,X
+652,142,metal,metal0,Lemmy Kilmister,Republic Records,2671.0608355519685,3,4,2022
+653,169,metal,metal8,Charlotte Wessels,Virgin Records,4066.3741822933907,23,6,2022
+654,165,metal,metal17,Max Cavalera,4AD,5221.75236318838,13,4,2023
+655,198,metal,metal9,Floor Jansen,Stax Records,1903.2602166049205,27,11,2023
+656,143,metal,metal14,Doro Pesch,Island Records,3143.058485030484,14,9,2022
+657,190,metal,metal1,Michael Amott,MCA Records,1366.6843353116726,14,1,2022
+658,116,metal,metal7,Chuck Schuldiner,Sub Pop Records,5043.725742847614,10,1,2021
+659,112,metal,metal2,Joey DeMaio,4AD,382.3429725750884,23,8,2022
+660,84,metal,metal6,Tony Iommi,Stax Records,3340.4960596278906,19,1,2023
+661,189,metal,metal19,James Hetfield,Def Jam Recordings,5360.267419025537,14,1,2021
+662,86,metal,metal5,Angela Gossow,Polydor Records,2242.9220079825773,18,10,2022
+663,173,metal,metal6,Cristina Scabbia,4AD,3706.567177712126,2,3,2021
+664,203,metal,metal9,Axl Rose,BMG Rights Management,3797.5947160368296,3,3,2022
+665,112,metal,metal5,Cristina Scabbia,Island Records,1985.6197359339963,15,7,2022
+666,156,metal,metal15,Joey DeMaio,Stax Records,7331.9003282164485,13,12,2022
+667,178,metal,metal1,Charlotte Wessels,Capitol Records,2659.5737523145144,25,2,2022
+668,136,metal,metal10,Chuck Schuldiner,Jive Records,647.477500552035,16,7,2022
+669,256,metal,metal5,Tom Araya,Warner Music Group,2396.6527017746366,1,1,2021
+670,97,metal,metal19,Ozzy Osbourne,RCA Records,1890.5464740828363,12,8,2023
+671,134,metal,metal9,Cristina Scabbia,Merge Records,3910.6279965045524,2,2,2022
+672,179,metal,metal15,Sharon den Adel,Sun Records,2635.117822672694,29,9,X
+673,146,metal,metal17,Randy Rhoads,Rough Trade Records,3694.880841255994,31,12,2023
+674,178,metal,metal19,Kirk Hammett,Universal Music Group,3765.5466332582287,26,3,2023
+675,135,metal,metal9,Lzzy Hale,Motown,4345.908390843399,3,3,2022
+676,63,metal,metal12,Lars Ulrich,Sun Records,2759.673000325663,31,3,2023
+677,165,metal,metal11,Max Cavalera,Sire Records,1052.0199388710869,X,11,2022
+678,146,metal,metal11,Randy Rhoads,Verve Records,4897.693099953078,X,X,2021
+679,480,metal,metal19,Alissa White-Gluz,Sun Records,3043.4421431448814,15,7,2023
+680,161,metal,metal5,Marty Friedman,MCA Records,3995.9030220138734,17,3,2022
+681,93,metal,metal15,Zakk Wylde,Universal Music Group,4205.622337724561,9,9,2023
+682,208,metal,metal4,Mikael Akerfeldt,XL Recordings,3897.6515142902786,24,7,2023
+683,107,metal,metal5,Axl Rose,EMI Group,323.35114129468093,15,4,2021
+684,94,metal,metal9,Sharon den Adel,Sire Records,3580.5316311667684,26,4,2022
+685,169,metal,metal15,Alissa White-Gluz,Atlantic Records,2181.9288352965523,7,5,2022
+686,200,metal,metal9,Charlotte Wessels,Arista Records,2747.222129644494,X,7,2023
+687,172,metal,metal9,Floor Jansen,Virgin Records,1271.5335566337046,19,11,2021
+688,139,metal,metal8,Zakk Wylde,Rough Trade Records,729.8137432626586,30,9,2023
+689,119,metal,metal16,Marty Friedman,Sun Records,3057.6833988216954,10,4,2021
+690,106,metal,metal16,Floor Jansen,Capitol Records,4014.093162488269,23,8,2022
+691,142,metal,metal11,Randy Rhoads,Capitol Records,5938.750070356541,10,1,2021
+692,48,metal,metal18,Mille Petrozza,Sub Pop Records,3708.209880015079,13,7,2023
+693,168,metal,metal19,Zakk Wylde,MCA Records,4445.116171290737,1,2,2023
+694,165,metal,metal12,Alissa White-Gluz,Sub Pop Records,2895.5395034580697,8,4,2023
+695,142,metal,metal18,Cristina Scabbia,Rough Trade Records,4900.5945433454135,11,3,2023
+696,154,metal,metal1,Simone Simons,Jive Records,4265.294888248767,17,2,X
+697,155,metal,metal1,Tarja Turunen,Republic Records,4192.952053760258,1,2,2023
+698,193,metal,metal19,Michael Amott,Virgin Records,2916.755559373149,20,3,2021
+699,92,metal,metal2,Lemmy Kilmister,RCA Records,3756.5323682954895,5,6,2021
+700,131,metal,metal1,Mikael Akerfeldt,Island Records,371.90335044986296,24,4,2022
+701,138,pop,pop18,Beyoncé,EMI Group,2085.099104291454,12,7,2023
+702,167,pop,pop1,Camila Cabello,Sire Records,3784.0791609846483,26,8,2021
+703,190,pop,pop15,Billie Eilish,Republic Records,2366.958858422763,10,10,2021
+704,141,pop,pop14,Katy Perry,Sire Records,1129.0400655208841,8,2,2021
+705,118,pop,pop19,Rihanna,Sun Records,3721.508867595756,28,9,2023
+706,183,pop,pop6,Rihanna,Universal Music Group,5000.0,30,3,2021
+707,185,pop,pop1,Post Malone,RCA Records,2959.1164086082795,21,12,2023
+708,190,pop,pop8,Ariana Grande,Motown,1979.3032050181998,21,3,2023
+709,152,pop,pop0,John Legend,Sire Records,3990.619344288898,12,10,2023
+710,52,pop,pop18,Shawn Mendes,Atlantic Records,2408.7667510533433,19,1,2021
+711,88,pop,pop9,Ariana Grande,RCA Records,2907.6001308030045,19,4,2021
+712,490,pop,pop16,Lady Gaga,Sire Records,463.11378480983603,7,7,2021
+713,154,pop,pop18,Jason Derulo,Sony Music Entertainment,3274.0280609987767,10,1,2022
+714,147,pop,pop16,Bruno Mars,Def Jam Recordings,4357.46432179665,5,4,2022
+715,161,pop,pop5,Ariana Grande,Polydor Records,4039.608647574977,17,3,2021
+716,66,pop,pop16,Shakira,BMG Rights Management,2911.0568243675207,11,2,2021
+717,106,pop,pop10,Ed Sheeran,Virgin Records,2530.3389828965032,17,5,2022
+718,167,pop,pop11,Billie Eilish,Atlantic Records,4808.505477107857,9,9,2021
+719,149,pop,pop19,Taylor Swift,Warner Music Group,3746.867002972442,23,3,2023
+720,154,pop,pop6,Jason Derulo,RCA Records,2623.600520833628,7,4,2022
+721,226,pop,pop5,Adele,Def Jam Recordings,1755.6573119929608,X,1,2022
+722,91,pop,pop5,Nicki Minaj,RCA Records,1438.578544622704,22,5,2021
+723,145,pop,pop14,Dua Lipa,Capitol Records,3622.902033195765,16,3,2021
+724,164,pop,pop14,Billie Eilish,Sire Records,4197.688552299633,X,X,2023
+725,121,pop,pop19,Maroon 5,Capitol Records,5000.0,21,3,2021
+726,91,pop,pop5,Miley Cyrus,Merge Records,1479.0788962569459,24,5,X
+727,122,pop,pop3,Billie Eilish,Columbia Records,2114.645950403134,7,6,2022
+728,171,pop,pop19,Zayn Malik,Motown,1345.0132259691272,17,12,2023
+729,132,pop,pop2,Ariana Grande,Verve Records,835.0341575767757,11,12,2022
+730,203,pop,pop10,Adele,Sony Music Entertainment,2612.88110485324,11,1,X
+731,141,pop,pop6,Post Malone,Elektra Records,1975.08432206401,4,1,2021
+732,104,pop,pop9,Imagine Dragons,Rough Trade Records,5000.0,23,3,X
+733,137,pop,pop3,Imagine Dragons,Merge Records,1377.3572998523152,11,9,2022
+734,131,pop,pop19,Charlie Puth,Sun Records,2581.8573010545397,2,6,2021
+735,94,pop,pop4,Shakira,RCA Records,4458.2382089724515,18,2,2023
+736,205,pop,pop10,Maroon 5,Sire Records,3231.1851128024555,15,12,X
+737,120,pop,pop7,Halsey,BMG Rights Management,3601.2913498482285,X,5,2022
+738,72,pop,pop17,Sia,Motown,985.0534132867244,3,10,2021
+739,183,pop,pop12,Katy Perry,EMI Group,2578.9526048378525,18,2,2022
+740,48,pop,pop15,Justin Bieber,Columbia Records,3222.308168566562,26,10,2023
+741,177,pop,pop16,Drake,Merge Records,65.63090994250297,28,1,2023
+742,138,pop,pop0,Zayn Malik,Sony Music Entertainment,4415.297985855123,27,6,2023
+743,197,pop,pop16,Adele,Rough Trade Records,3225.677035385631,25,3,2022
+744,482,pop,pop6,Sam Smith,Interscope Records,5000.0,2,7,2021
+745,152,pop,pop18,Lizzo,Def Jam Recordings,4301.102133947086,25,9,2023
+746,77,pop,pop18,Selena Gomez,MCA Records,2669.201647126813,3,4,2023
+747,123,pop,pop2,Selena Gomez,XL Recordings,5000.0,20,9,2021
+748,119,pop,pop14,Camila Cabello,Warner Music Group,2171.731858200985,X,10,2023
+749,161,pop,pop8,Miley Cyrus,Atlantic Records,4542.512281610587,28,9,2021
+750,199,pop,pop16,Dua Lipa,4AD,2936.633074942868,X,8,2021
+751,130,pop,pop19,Bruno Mars,Merge Records,3611.0620657247678,28,6,2021
+752,108,pop,pop16,Imagine Dragons,EMI Group,4335.0817385300825,22,2,X
+753,155,pop,pop6,Taylor Swift,Epic Records,1696.6672574695572,X,11,2021
+754,155,pop,pop0,Dua Lipa,Sire Records,2387.945833793945,18,3,2022
+755,87,pop,pop2,Harry Styles,MCA Records,2380.939400232539,3,9,2022
+756,219,pop,pop8,Beyoncé,Epic Records,3337.5651972833334,16,6,2023
+757,187,pop,pop15,Zayn Malik,Island Records,5000.0,1,11,2021
+758,144,pop,pop17,Jason Derulo,Wind-Up Records,4475.637421259759,22,1,2021
+759,77,pop,pop5,Imagine Dragons,Jive Records,1840.9387182044923,5,9,2023
+760,134,pop,pop1,Rihanna,Verve Records,2113.805247945486,2,9,2023
+761,104,pop,pop16,Khalid,MCA Records,3741.3579821110125,30,11,2022
+762,142,pop,pop8,The Weeknd,Rough Trade Records,3665.7462921551814,8,4,2021
+763,182,pop,pop6,Sia,EMI Group,1436.193668740948,8,2,2023
+764,244,pop,pop5,Dua Lipa,Arista Records,3896.202188323519,X,X,2023
+765,118,pop,pop17,Camila Cabello,Stax Records,2583.919207973635,14,7,2023
+766,161,pop,pop0,Dua Lipa,Arista Records,3884.586008105265,13,6,2023
+767,169,pop,pop1,Zayn Malik,Sony Music Entertainment,1439.308997276465,20,11,2023
+768,159,pop,pop16,Khalid,Arista Records,14.360005869386441,1,11,2023
+769,130,pop,pop7,Bruno Mars,Wind-Up Records,1116.8541489515912,20,1,2022
+770,109,pop,pop6,Nicki Minaj,Tommy Boy Entertainment,3491.657917927325,17,8,X
+771,134,pop,pop8,John Legend,EMI Group,2122.030621045676,X,6,2021
+772,137,pop,pop2,Halsey,Rough Trade Records,2476.2048511556927,9,9,2023
+773,156,pop,pop0,Justin Bieber,XL Recordings,1331.4341968571903,18,8,2021
+774,97,pop,pop19,Adele,Interscope Records,2289.1191877607484,15,7,2022
+775,167,pop,pop4,Billie Eilish,Elektra Records,3320.0456342112793,22,3,X
+776,111,pop,pop13,Charlie Puth,RCA Records,2637.0516962172774,23,8,2022
+777,173,pop,pop15,Post Malone,Capitol Records,2577.6891331878,16,12,2021
+778,99,pop,pop11,Shawn Mendes,Polydor Records,3691.1607010043726,12,11,2021
+779,106,pop,pop13,Nicki Minaj,Polydor Records,2924.5119234721774,2,5,2023
+780,87,pop,pop14,Cardi B,BMG Rights Management,3363.9327481819755,26,7,2023
+781,157,pop,pop7,Selena Gomez,Warner Music Group,3130.7593781626415,22,11,2023
+782,165,pop,pop18,Sam Smith,MCA Records,1639.7130270588189,25,8,2022
+783,163,pop,pop11,Zayn Malik,Wind-Up Records,1727.4475646414667,18,1,2022
+784,92,pop,pop4,Miley Cyrus,Epic Records,2543.5800245985274,11,1,2023
+785,173,pop,pop12,Selena Gomez,Arista Records,2930.3496622142807,26,8,2021
+786,206,pop,pop19,Halsey,EMI Group,5000.0,15,12,2022
+787,103,pop,pop3,Nicki Minaj,Virgin Records,4360.7464948903435,13,8,2023
+788,190,pop,pop7,Jason Derulo,Island Records,4825.095345333827,27,4,2021
+789,170,pop,pop5,Lady Gaga,Stax Records,4059.2270106512956,6,1,2021
+790,130,pop,pop18,Bruno Mars,XL Recordings,4299.859430239461,20,7,2023
+791,158,pop,pop9,Khalid,Merge Records,3064.919275344425,24,2,2023
+792,97,pop,pop3,Lizzo,EMI Group,2208.931775864934,12,2,2022
+793,159,pop,pop11,Katy Perry,RCA Records,2612.8658319971682,3,8,2022
+794,114,pop,pop11,Ed Sheeran,Tommy Boy Entertainment,5000.0,23,9,2022
+795,87,pop,pop17,Katy Perry,Def Jam Recordings,1271.2944838067483,17,2,2023
+796,197,pop,pop6,Taylor Swift,Merge Records,2832.944207740535,12,8,2023
+797,173,pop,pop16,Post Malone,Virgin Records,2684.505420082398,28,10,2022
+798,167,pop,pop15,Katy Perry,Republic Records,3764.495624473525,14,2,2021
+799,132,pop,pop18,Bruno Mars,Interscope Records,1937.3858184460837,14,6,2021
+800,111,pop,pop3,Dua Lipa,Sony Music Entertainment,757.5431560277348,8,7,2021
+801,156,reggae,reggae1,Sean Paul,EMI Group,2841.38203075818,28,6,X
+802,120,reggae,reggae11,Sizzla,Sun Records,5780.752332715951,23,10,2021
+803,201,reggae,reggae18,Rita Marley,Polydor Records,623.246281487126,X,X,2021
+804,107,reggae,reggae5,Gentleman,Polydor Records,3067.0357794032916,2,5,2021
+805,167,reggae,reggae10,Capleton,MCA Records,3909.483461522433,X,3,2021
+806,156,reggae,reggae10,Junior Gong,Sub Pop Records,4779.868662649059,20,4,2022
+807,126,reggae,reggae17,Sean Paul,Island Records,2049.1560688062445,21,10,2022
+808,132,reggae,reggae10,Protoje,Polydor Records,3622.878645823174,28,7,2022
+809,119,reggae,reggae14,Gentleman,Warner Music Group,2453.4735821545505,12,11,2023
+810,146,reggae,reggae4,Sean Paul,Elektra Records,4141.007390065225,30,11,2022
+811,92,reggae,reggae17,Tarrus Riley,EMI Group,269.05931351100753,9,10,2023
+812,99,reggae,reggae7,Stephen Marley,Sun Records,4626.783033323767,15,9,2023
+813,165,reggae,reggae18,SOJA,Sub Pop Records,1677.5376282744685,X,10,2022
+814,155,reggae,reggae1,Steel Pulse,Epic Records,1610.9025041556772,5,5,2022
+815,125,reggae,reggae4,Rita Marley,Def Jam Recordings,3707.526564341886,1,3,2021
+816,180,reggae,reggae4,Buju Banton,Epic Records,1618.17212204837,31,5,2021
+817,184,reggae,reggae6,Protoje,Republic Records,2515.3438994468734,29,4,2023
+818,110,reggae,reggae11,Max Romeo,Merge Records,3059.6974424795912,31,3,2022
+819,78,reggae,reggae19,Bob Marley,Interscope Records,3641.518534015869,25,10,2023
+820,138,reggae,reggae15,Shaggy,RCA Records,1776.8777567281775,3,7,2022
+821,141,reggae,reggae1,Burning Spear,XL Recordings,3263.193781592773,5,10,2023
+822,103,reggae,reggae11,Dennis Brown,Sub Pop Records,4095.2057254701376,3,7,2023
+823,123,reggae,reggae9,Third World,Verve Records,6509.9844824773045,23,12,2023
+824,198,reggae,reggae17,Beres Hammond,EMI Group,2370.552681423326,27,10,2021
+825,145,reggae,reggae3,Shaggy,Columbia Records,2067.6270436026725,1,3,2021
+826,108,reggae,reggae16,Buju Banton,Sony Music Entertainment,1634.378048422093,5,1,2021
+827,157,reggae,reggae14,Freddie McGregor,Merge Records,3203.3144618673687,21,12,X
+828,158,reggae,reggae1,Gentleman,Republic Records,2956.272789330426,2,6,2021
+829,125,reggae,reggae5,Gregory Isaacs,Tommy Boy Entertainment,2935.6850593172576,X,X,2023
+830,187,reggae,reggae9,Gregory Isaacs,Warner Music Group,267.6670018687255,20,5,2022
+831,235,reggae,reggae7,Peter Tosh,Republic Records,3570.2140971170284,20,11,2021
+832,180,reggae,reggae13,Protoje,Tommy Boy Entertainment,1120.8450905065606,20,11,2022
+833,170,reggae,reggae12,Tarrus Riley,Sun Records,2663.945887873634,8,11,2021
+834,203,reggae,reggae18,Jimmy Cliff,Tommy Boy Entertainment,1230.2815945958084,15,12,2021
+835,217,reggae,reggae12,Chronixx,Jive Records,3514.4976268064806,9,8,2022
+836,192,reggae,reggae9,Ziggy Marley,Virgin Records,1094.055975204787,28,2,2023
+837,199,reggae,reggae13,Alborosie,Atlantic Records,3946.0495074717937,24,2,2021
+838,148,reggae,reggae13,Capleton,EMI Group,3953.3252726446362,14,10,2022
+839,146,reggae,reggae10,Ziggy Marley,Jive Records,2589.089608245855,29,5,2021
+840,165,reggae,reggae17,SOJA,RCA Records,2772.4046974602597,22,11,2021
+841,197,reggae,reggae1,Beres Hammond,BMG Rights Management,4182.481651210767,29,1,2021
+842,175,reggae,reggae7,Marcia Griffiths,Merge Records,4680.047970893911,1,2,2023
+843,213,reggae,reggae6,SOJA,Polydor Records,2273.1039544374535,22,5,2021
+844,171,reggae,reggae13,Max Romeo,Epic Records,2622.2239996964895,13,11,2023
+845,191,reggae,reggae2,Marcia Griffiths,BMG Rights Management,3662.936580172506,X,7,X
+846,181,reggae,reggae9,Luciano,Elektra Records,1154.7177269501176,22,5,2022
+847,99,reggae,reggae0,Rita Marley,Warner Music Group,3709.946258928544,23,1,2022
+848,78,reggae,reggae7,Beres Hammond,XL Recordings,5322.06486752266,8,4,2023
+849,257,reggae,reggae14,Gregory Isaacs,4AD,285.8751038940977,X,8,2021
+850,107,reggae,reggae1,Tarrus Riley,Sub Pop Records,1681.305514721098,5,4,2021
+851,127,reggae,reggae12,Burning Spear,Sony Music Entertainment,2925.501072565685,X,X,2021
+852,167,reggae,reggae2,Luciano,Verve Records,6586.371572687884,15,6,2021
+853,80,reggae,reggae8,Dennis Brown,Merge Records,3114.463847068839,7,10,2021
+854,168,reggae,reggae4,Beres Hammond,Polydor Records,2647.944473378325,X,7,2023
+855,118,reggae,reggae7,Steel Pulse,Verve Records,4855.863814054926,16,3,X
+856,190,reggae,reggae18,Dennis Brown,Wind-Up Records,2819.711596634048,13,1,2022
+857,131,reggae,reggae19,Protoje,Sub Pop Records,2593.339420297014,3,5,2022
+858,94,reggae,reggae17,SOJA,RCA Records,3988.1730027160493,22,4,2021
+859,96,reggae,reggae2,Collie Buddz,Polydor Records,2976.5657461571827,13,1,2023
+860,183,reggae,reggae9,Rita Marley,Jive Records,2918.5521439884596,13,10,2021
+861,191,reggae,reggae14,Tarrus Riley,Polydor Records,1022.9925259964848,26,4,2021
+862,133,reggae,reggae19,Damian Marley,Sub Pop Records,2431.9857838655025,18,9,X
+863,228,reggae,reggae18,Freddie McGregor,MCA Records,2579.982574081317,1,5,2021
+864,119,reggae,reggae15,Chronixx,Sony Music Entertainment,2890.5389812409026,18,10,2022
+865,162,reggae,reggae6,Max Romeo,Rough Trade Records,1607.1226015810184,7,2,2021
+866,124,reggae,reggae3,Protoje,Arista Records,2927.033202709545,17,2,2022
+867,187,reggae,reggae8,Collie Buddz,Wind-Up Records,1895.644645847548,3,4,2021
+868,135,reggae,reggae2,Third World,Merge Records,2027.44578343013,X,8,2022
+869,96,reggae,reggae17,Damian Marley,4AD,4283.2780056909905,16,10,2023
+870,74,reggae,reggae8,Black Uhuru,XL Recordings,3119.995115395394,X,X,2023
+871,162,reggae,reggae10,Chronixx,Verve Records,4500.110001592712,8,5,X
+872,167,reggae,reggae12,Protoje,Merge Records,3772.0689892067717,3,2,2021
+873,161,reggae,reggae6,Collie Buddz,Arista Records,2445.970840462599,31,8,2021
+874,130,reggae,reggae17,Damian Marley,Epic Records,1839.451102071381,18,7,2022
+875,214,reggae,reggae14,Rita Marley,XL Recordings,3216.4990221948024,28,5,2021
+876,118,reggae,reggae14,SOJA,MCA Records,1798.2989936381127,26,2,2021
+877,211,reggae,reggae10,Jimmy Cliff,4AD,1982.7520846282566,19,5,2021
+878,141,reggae,reggae15,Sizzla,Verve Records,1685.034323602868,11,8,2022
+879,87,reggae,reggae8,Dennis Brown,Sony Music Entertainment,4153.160761416753,14,4,2022
+880,147,reggae,reggae7,Shaggy,Merge Records,2003.5667646234756,18,10,2023
+881,94,reggae,reggae2,Junior Gong,Tommy Boy Entertainment,774.1978622266915,11,7,2022
+882,177,reggae,reggae18,Alborosie,Jive Records,1147.6964084417987,16,8,2023
+883,164,reggae,reggae10,Beres Hammond,4AD,3640.7837330450457,30,12,2022
+884,85,reggae,reggae13,Sean Paul,Merge Records,4841.994674082034,22,4,2023
+885,108,reggae,reggae6,Stephen Marley,Tommy Boy Entertainment,5037.800880130131,4,9,2022
+886,54,reggae,reggae4,Sizzla,Stax Records,4737.677180683511,3,11,2021
+887,188,reggae,reggae11,Stephen Marley,Stax Records,2468.2090120180164,7,1,2021
+888,141,reggae,reggae13,Toots Hibbert,Island Records,2782.0729269061094,17,8,2022
+889,148,reggae,reggae3,Capleton,Polydor Records,3471.853728584679,5,6,2021
+890,181,reggae,reggae16,Shaggy,XL Recordings,3778.0017664796023,31,3,2022
+891,89,reggae,reggae1,Black Uhuru,Rough Trade Records,2775.336154706567,9,4,2021
+892,104,reggae,reggae7,Sizzla,Interscope Records,2930.8895991287436,9,10,2023
+893,168,reggae,reggae14,Shaggy,Atlantic Records,2379.0168448391273,5,2,2022
+894,117,reggae,reggae10,Damian Marley,Republic Records,445.4738818636847,8,1,2021
+895,114,reggae,reggae16,Inner Circle,Verve Records,5370.134327198968,10,9,2023
+896,116,reggae,reggae18,SOJA,RCA Records,4480.811560576513,X,X,2022
+897,189,reggae,reggae3,Chronixx,Tommy Boy Entertainment,4959.9020327984945,10,3,2023
+898,158,reggae,reggae13,Black Uhuru,Rough Trade Records,3691.2777159222187,17,6,2021
+899,145,reggae,reggae6,Gregory Isaacs,Sony Music Entertainment,1849.995249018325,11,5,2021
+900,99,reggae,reggae16,Ziggy Marley,XL Recordings,4468.615554996501,19,4,2021
+901,104,rock,rock18,Aerosmith,Elektra Records,2755.8312650034004,20,11,2022
+902,146,rock,rock15,The Doors,MCA Records,1523.5251483965083,24,3,2023
+903,167,rock,rock10,R.E.M.,Sun Records,3241.3521297832917,9,5,2022
+904,108,rock,rock5,Aerosmith,Rough Trade Records,3197.609418108933,2,4,2022
+905,209,rock,rock5,Chuck Berry,Elektra Records,3038.9469712469645,X,X,2021
+906,147,rock,rock12,David Bowie,Sony Music Entertainment,3862.4908317791997,20,8,2023
+907,156,rock,rock4,AC/DC,Republic Records,998.098432351863,13,10,2022
+908,105,rock,rock3,Radiohead,Atlantic Records,3169.252836146734,20,4,2021
+909,204,rock,rock12,Jimi Hendrix,Republic Records,6303.820019069573,28,5,2022
+910,114,rock,rock8,The Doors,Sun Records,3350.671493687591,23,10,2023
+911,134,rock,rock0,Chuck Berry,Island Records,2523.0584326937174,7,6,2021
+912,143,rock,rock11,R.E.M.,RCA Records,2735.293056099422,21,8,2022
+913,216,rock,rock10,Nirvana,Merge Records,4448.37912446025,14,5,2022
+914,56,rock,rock2,Radiohead,Motown,4028.3341240461805,10,10,2022
+915,129,rock,rock12,Pearl Jam,RCA Records,5338.830299112242,18,4,2022
+916,103,rock,rock17,Fleetwood Mac,Interscope Records,3221.5093457498883,13,8,2023
+917,162,rock,rock16,The Beach Boys,Stax Records,2489.7029854187554,29,8,2021
+918,126,rock,rock5,David Bowie,Virgin Records,2355.60258298356,26,2,2022
+919,157,rock,rock4,Guns N' Roses,Universal Music Group,804.5003792886409,2,4,2021
+920,38,rock,rock13,Deep Purple,Jive Records,3371.699330100425,10,11,2021
+921,149,rock,rock4,Fleetwood Mac,Def Jam Recordings,1093.426167710531,26,11,2021
+922,134,rock,rock4,The Eagles,Merge Records,3598.9787763378326,9,2,2022
+923,75,rock,rock6,Elton John,Warner Music Group,3712.8320264982194,18,2,2023
+924,126,rock,rock2,Queen,Sony Music Entertainment,3104.2674029980426,4,12,2022
+925,192,rock,rock12,Eric Clapton,Wind-Up Records,2072.705123271301,4,2,2023
+926,61,rock,rock12,Aerosmith,Elektra Records,5888.079726889686,31,7,2021
+927,154,rock,rock16,The Eagles,Verve Records,4378.607637978602,X,X,2023
+928,50,rock,rock9,Nirvana,EMI Group,851.7465338151728,22,1,2021
+929,106,rock,rock8,Van Halen,Sire Records,3179.9924296777276,28,11,2023
+930,114,rock,rock19,R.E.M.,Interscope Records,2205.6913144933255,22,10,2021
+931,157,rock,rock18,Elton John,EMI Group,4384.467935456019,26,8,X
+932,172,rock,rock8,Eric Clapton,Atlantic Records,5391.91306963858,X,12,2023
+933,154,rock,rock17,Fleetwood Mac,Republic Records,3185.4504883644777,1,1,2021
+934,147,rock,rock10,AC/DC,EMI Group,2512.756077712957,20,7,2021
+935,115,rock,rock11,Radiohead,Polydor Records,3223.404784095705,10,3,2023
+936,145,rock,rock10,The Beatles,Virgin Records,3843.200995717278,1,8,2021
+937,115,rock,rock12,The Eagles,Stax Records,1090.4448739186844,X,11,2022
+938,123,rock,rock13,Chuck Berry,EMI Group,1078.1953550488174,X,X,2022
+939,78,rock,rock7,Van Halen,Merge Records,2375.0779032448695,26,12,2022
+940,135,rock,rock1,The Beatles,Republic Records,3879.501452616115,X,11,2021
+941,184,rock,rock13,David Bowie,Atlantic Records,3876.445653552225,5,6,2022
+942,149,rock,rock11,The Who,Merge Records,2176.5540011573366,26,7,2022
+943,70,rock,rock5,Bob Dylan,4AD,2872.1095113545916,15,8,2022
+944,147,rock,rock6,David Bowie,Def Jam Recordings,1260.3427146903355,18,11,2022
+945,231,rock,rock4,The Rolling Stones,Columbia Records,344.37291217691836,X,X,2023
+946,204,rock,rock19,The Clash,Columbia Records,2004.4307561086712,30,12,2022
+947,110,rock,rock10,Van Halen,Polydor Records,288.98472894437464,1,1,2022
+948,78,rock,rock11,The Kinks,Stax Records,3077.8115415032835,15,9,2023
+949,149,rock,rock2,Van Halen,MCA Records,3546.043508012542,17,4,X
+950,108,rock,rock19,Radiohead,Epic Records,4836.678207060839,1,3,X
+951,115,rock,rock2,The Beach Boys,EMI Group,5439.77948388858,13,11,X
+952,155,rock,rock18,Bruce Springsteen,Jive Records,4216.7875139486405,2,3,2022
+953,173,rock,rock1,Elvis Presley,Island Records,2771.5489017090044,30,5,2022
+954,142,rock,rock2,The Who,Merge Records,1214.5876522245237,9,8,2023
+955,169,rock,rock5,The Eagles,Interscope Records,402.7312566133137,29,8,2021
+956,147,rock,rock11,AC/DC,Verve Records,4289.297719079627,1,2,2021
+957,147,rock,rock5,Pink Floyd,Virgin Records,1466.7112678746366,4,7,2021
+958,105,rock,rock12,Nirvana,EMI Group,997.0136954632826,18,5,2021
+959,171,rock,rock12,Radiohead,Merge Records,3086.0975778864017,23,6,2023
+960,120,rock,rock1,Pearl Jam,Sun Records,2613.136777472525,8,8,2023
+961,68,rock,rock0,Chuck Berry,Columbia Records,6759.4567557387345,X,9,2021
+962,119,rock,rock12,R.E.M.,Motown,1214.8677645035243,25,4,2023
+963,81,rock,rock3,Bob Dylan,Universal Music Group,2253.822340460543,23,4,2021
+964,194,rock,rock19,Guns N' Roses,Polydor Records,1192.9439815617227,28,3,2023
+965,125,rock,rock17,Chuck Berry,Merge Records,3090.302925806163,13,1,2021
+966,221,rock,rock11,The Clash,Arista Records,3557.163055918415,11,3,X
+967,179,rock,rock8,Metallica,Sun Records,3315.6727932511744,10,10,2022
+968,83,rock,rock18,Nirvana,Merge Records,2961.534131226956,5,4,2021
+969,143,rock,rock16,Aerosmith,Capitol Records,5558.490540266019,6,6,X
+970,79,rock,rock9,Bob Dylan,Merge Records,2087.832057423744,21,11,2021
+971,150,rock,rock18,Elvis Presley,XL Recordings,3607.847039335602,27,10,2022
+972,118,rock,rock6,Jimi Hendrix,Universal Music Group,1959.899991005862,26,7,2023
+973,198,rock,rock18,Queen,RCA Records,2506.257027775442,30,12,2021
+974,236,rock,rock1,Metallica,4AD,3513.3972004112848,21,9,2023
+975,117,rock,rock1,Eric Clapton,XL Recordings,4524.068340688532,21,3,2023
+976,155,rock,rock1,Van Halen,Merge Records,3869.7341400031296,11,8,2021
+977,143,rock,rock19,Bon Jovi,Capitol Records,1428.5335298367404,3,5,2021
+978,159,rock,rock0,The Kinks,4AD,6128.308758132516,5,5,2022
+979,143,rock,rock10,Led Zeppelin,Sire Records,2707.166026149665,30,3,2023
+980,55,rock,rock18,Pearl Jam,Merge Records,2173.878832170276,11,4,2023
+981,113,rock,rock3,AC/DC,4AD,2462.722362110239,28,2,2022
+982,204,rock,rock13,The Clash,RCA Records,2392.6616496328725,14,6,2021
+983,170,rock,rock15,Eric Clapton,Epic Records,2733.92661280246,26,2,2022
+984,125,rock,rock3,Chuck Berry,Capitol Records,2206.785582928046,6,4,2022
+985,136,rock,rock10,Jimi Hendrix,Interscope Records,832.9050044718424,X,11,2022
+986,182,rock,rock5,Queen,Jive Records,2454.768968347188,1,11,2022
+987,143,rock,rock7,Oasis,Columbia Records,2377.4210878103986,22,8,2022
+988,140,rock,rock5,Elton John,Wind-Up Records,3553.094801972866,6,8,2021
+989,135,rock,rock18,The Who,Warner Music Group,4342.420454042145,29,3,2021
+990,167,rock,rock1,Queen,EMI Group,2748.363126677517,29,3,2022
+991,156,rock,rock14,AC/DC,Sub Pop Records,3150.1209220385485,4,11,2021
+992,202,rock,rock19,Eric Clapton,Interscope Records,4001.9236056660166,X,11,2021
+993,181,rock,rock5,The Doors,Merge Records,5065.698140824476,4,3,2023
+994,160,rock,rock3,Eric Clapton,Polydor Records,4290.936374013945,20,2,2021
+995,89,rock,rock2,The Rolling Stones,Sire Records,4285.385338234882,31,12,X
+996,101,rock,rock19,Pearl Jam,Stax Records,3185.879761056773,20,10,2022
+997,170,rock,rock13,The Clash,Sun Records,503.6508619098049,24,9,2021
+998,121,rock,rock0,Fleetwood Mac,XL Recordings,2170.0528800615825,11,8,2022
+999,99,rock,rock3,Chuck Berry,Motown,1425.7929852267846,27,2,2022
+1000,144,rock,rock4,Metallica,Def Jam Recordings,4376.3473802233675,13,10,2022
